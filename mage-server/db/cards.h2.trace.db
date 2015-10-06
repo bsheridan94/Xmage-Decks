@@ -1,0 +1,60 @@
+08-09 14:46:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXPANSION" not found; SQL statement:
+DROP TABLE `expansion`  [42102-187]
+08-09 14:46:15 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Index "CLASSNAME_INDEX" not found; SQL statement:
+DROP INDEX `className_index` [42112-187]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.command.ddl.DropIndex.update(DropIndex.java:49)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:78)
+	at org.h2.command.Command.executeUpdate(Command.java:254)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:198)
+	at com.j256.ormlite.jdbc.JdbcCompiledStatement.runExecute(JdbcCompiledStatement.java:62)
+	at com.j256.ormlite.table.TableUtils.doStatements(TableUtils.java:462)
+	at com.j256.ormlite.table.TableUtils.doDropTable(TableUtils.java:273)
+	at com.j256.ormlite.table.TableUtils.dropTable(TableUtils.java:151)
+	at mage.cards.repository.CardRepository.<init>(CardRepository.java:82)
+	at mage.cards.repository.CardRepository.<clinit>(CardRepository.java:59)
+	at mage.cards.repository.CardScanner.scan(CardScanner.java:67)
+	at mage.server.Main.main(Main.java:115)
+08-09 14:46:15 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Index "SETCODE_CARDNUMBER_INDEX" not found; SQL statement:
+DROP INDEX `setCode_cardNumber_index` [42112-187]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.command.ddl.DropIndex.update(DropIndex.java:49)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:78)
+	at org.h2.command.Command.executeUpdate(Command.java:254)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:198)
+	at com.j256.ormlite.jdbc.JdbcCompiledStatement.runExecute(JdbcCompiledStatement.java:62)
+	at com.j256.ormlite.table.TableUtils.doStatements(TableUtils.java:462)
+	at com.j256.ormlite.table.TableUtils.doDropTable(TableUtils.java:273)
+	at com.j256.ormlite.table.TableUtils.dropTable(TableUtils.java:151)
+	at mage.cards.repository.CardRepository.<init>(CardRepository.java:82)
+	at mage.cards.repository.CardRepository.<clinit>(CardRepository.java:59)
+	at mage.cards.repository.CardScanner.scan(CardScanner.java:67)
+	at mage.server.Main.main(Main.java:115)
+08-09 14:46:15 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Index "NAME_INDEX" not found; SQL statement:
+DROP INDEX `name_index` [42112-187]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.command.ddl.DropIndex.update(DropIndex.java:49)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:78)
+	at org.h2.command.Command.executeUpdate(Command.java:254)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:198)
+	at com.j256.ormlite.jdbc.JdbcCompiledStatement.runExecute(JdbcCompiledStatement.java:62)
+	at com.j256.ormlite.table.TableUtils.doStatements(TableUtils.java:462)
+	at com.j256.ormlite.table.TableUtils.doDropTable(TableUtils.java:273)
+	at com.j256.ormlite.table.TableUtils.dropTable(TableUtils.java:151)
+	at mage.cards.repository.CardRepository.<init>(CardRepository.java:82)
+	at mage.cards.repository.CardRepository.<clinit>(CardRepository.java:59)
+	at mage.cards.repository.CardScanner.scan(CardScanner.java:67)
+	at mage.server.Main.main(Main.java:115)
+08-09 14:46:15 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "CARD" not found; SQL statement:
+DROP TABLE `card`  [42102-187]

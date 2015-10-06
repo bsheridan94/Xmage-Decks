@@ -1,0 +1,17 @@
+INFO  2015-08-09 14:46:07,457 Starting MAGE server version 1.4.3v0                                                       =>[main] Main.main
+INFO  2015-08-09 14:46:07,480 Logging level: INFO                                                                        =>[main] Main.main
+INFO  2015-08-09 14:46:07,480 Loading cards...                                                                           =>[main] Main.main
+INFO  2015-08-09 14:46:18,352 Cards need storing in DB: 22112                                                            =>[main] CardScanner.scan
+INFO  2015-08-09 14:46:23,345 Done.                                                                                      =>[main] Main.main
+INFO  2015-08-09 14:46:23,833 Config - max seconds idle: 600                                                             =>[main] Main.main
+INFO  2015-08-09 14:46:23,833 Config - max game threads: 10                                                              =>[main] Main.main
+INFO  2015-08-09 14:46:23,833 Config - max AI opponents: 15                                                              =>[main] Main.main
+INFO  2015-08-09 14:46:23,834 Config - min user name l.: 3                                                               =>[main] Main.main
+INFO  2015-08-09 14:46:23,834 Config - max user name l.: 14                                                              =>[main] Main.main
+INFO  2015-08-09 14:46:23,835 Config - save game active: false                                                           =>[main] Main.main
+INFO  2015-08-09 14:46:23,835 Config - backlog size    : 200                                                             =>[main] Main.main
+INFO  2015-08-09 14:46:23,835 Config - lease period    : 5000                                                            =>[main] Main.main
+INFO  2015-08-09 14:46:23,835 Config - max pool size   : 300                                                             =>[main] Main.main
+INFO  2015-08-09 14:46:23,835 Config - num accp.threads: 2                                                               =>[main] Main.main
+INFO  2015-08-09 14:46:23,836 Config - second.bind port: -1                                                              =>[main] Main.main
+INFO  2015-08-09 14:46:24,004 Started MAGE server - listening on 0.0.0.0:17171/?serializationtype=jboss&maxPoolSize=300  =>[main] Main.main

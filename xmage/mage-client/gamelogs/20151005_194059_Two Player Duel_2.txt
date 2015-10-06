@@ -1,0 +1,227 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">01:40: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">01:40: </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 8163692913225347564<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games to 
+    win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">01:40: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">01:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">01:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">01:41: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [a8e]</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:42: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [0a4]</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Gladecover Scout [dfc]</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:42: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [f34]</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:42: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [2cd]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [dfc]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:43: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [dfc]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">01:43: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    (18 - 18)</font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [9ed]</font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    casts </font><font color="#87CEFA">Kira, Great Glass-Spinner [3d0]</font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:43: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (18 - 18)</font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [464]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [dfc]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:44: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [dfc]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">01:44: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    (14 - 18)</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [51e]</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    casts </font><font color="#DAA520">Glen Elendra Liege [249]</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:44: </font><font color="White">Attacker: </font><font color="#87CEFA">Kira, 
+    Great Glass-Spinner [3d0]</font><font color="White"> (3/3) unblocked</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">01:44: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 15)</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [cc4]</font>
+<font color="#CCCC33">01:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [c1f]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [dfc]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:45: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [dfc]</font><font color="White"> (6/6) unblocked</font>
+<font color="#CCCC33">01:45: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">01:45: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    (8 - 15)</font>
+<font color="#CCCC33">01:45: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:46: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [e70]</font>
+<font color="#CCCC33">01:46: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:46: </font><font color="White">Attacker: </font><font color="#87CEFA">Kira, 
+    Great Glass-Spinner [3d0]</font><font color="White"> (3/3) unblocked</font>
+<font color="#CCCC33">01:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">01:46: </font><font color="Orange">Turn 10 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (8 - 12)</font>
+<font color="#CCCC33">01:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [0ce]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [dfc]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:47: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [dfc]</font><font color="White"> (9/7) blocked by </font><font color="#DAA520">Glen 
+    Elendra Liege [249]</font><font color="White"> (2/3) </font>
+<font color="#CCCC33">01:47: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">01:47: </font><font color="#DAA520">Glen Elendra Liege 
+    [249]</font><font color="White"> died</font>
+<font color="#CCCC33">01:47: </font><font color="Orange">Turn 11 </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    (2 - 12)</font>
+<font color="#CCCC33">01:47: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:47: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    casts </font><font color="#DAA520">Frostburn Weird [e14]</font>
+<font color="#CCCC33">01:48: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    casts </font><font color="#87CEFA">Thassa, God of the Sea [fed]</font>
+<font color="#CCCC33">01:48: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:48: </font><font color="Orange">Turn 12 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (2 - 12)</font>
+<font color="#CCCC33">01:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [ee3]</font>
+<font color="#CCCC33">01:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">01:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Unflinching Courage [64f]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [dfc]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:49: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [dfc]</font><font color="White"> (12/10) blocked by </font><font color="#87CEFA">Thassa, 
+    God of the Sea [fed]</font><font color="White"> (5/5) </font><font color="#DAA520">Frostburn 
+    Weird [e14]</font><font color="White"> (1/4) </font><font color="#87CEFA">Kira, 
+    Great Glass-Spinner [3d0]</font><font color="White"> (2/2) </font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 1 life</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 4 life</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 2 life</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 5 life</font>
+<font color="#CCCC33">01:49: </font><font color="#87CEFA">Kira, Great 
+    Glass-Spinner [3d0]</font><font color="White"> died</font>
+<font color="#CCCC33">01:49: </font><font color="#DAA520">Frostburn Weird [e14]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">01:49: </font><font color="#87CEFA">Thassa, God of the 
+    Sea [fed]</font><font color="White"> removed from combat</font>
+<font color="#CCCC33">01:49: </font><font color="Orange">Turn 13 </font><font color="#20B2AA">Kira</font><font color="Orange"> 
+    (1 - 23)</font>
+<font color="#CCCC33">01:49: </font><font color="White">Ability triggers: </font><font color="#87CEFA">Thassa, 
+    God of the Sea [fed]</font><font color="White"> - At the beginning of your 
+    upkeep, scry 1. <i>(Look at the top card of your library. You may put that 
+    card on the bottom of your library.)</i>.</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">01:49: </font><font color="#20B2AA">Kira</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

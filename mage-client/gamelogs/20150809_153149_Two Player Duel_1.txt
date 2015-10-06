@@ -1,0 +1,549 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">21:31: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">21:31: </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: -6699163129565123739<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 3267454127392280870<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">21:31: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">21:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">21:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">21:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">21:31: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">21:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">21:32: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Tower [a3d]</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Chromatic Star [ec9]</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:32: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Windswept Heath [686]</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Windswept Heath [686]</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: search your library for a Forest or Plains and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Windswept 
+    Heath [686]</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Overgrown Tomb [6a3]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    casts </font><font color="#696969">Inquisition of Kozilek [6ac]</font><font color="White"> 
+    targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    reveals </font><font color="#B0C4DE">Urza's Mine</font><font color="White">, 
+    </font><font color="#B0C4DE">Perilous Vault</font><font color="White">, </font><font color="#90EE90">Sylvan 
+    Scrying</font><font color="White">, </font><font color="#B0C4DE">Ghost 
+    Quarter</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#696969">Inquisition of Kozilek [6ac]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    discards </font><font color="#90EE90">Sylvan Scrying [423]</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:32: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 20)</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Mine [5a5]</font>
+<font color="#CCCC33">21:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Chromatic Star [ec9]</font>
+<font color="#CCCC33">21:33: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Chromatic 
+    Star [ec9]</font><font color="White"> - When </font><font color="#B0C4DE">Chromatic 
+    Star [ec9]</font><font color="White"> is put into a graveyard from the 
+    battlefield, draw a card.</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Chromatic Sphere [a93]</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:33: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (17 - 20)</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:33: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 20)</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Mine [9af]</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Chromatic Sphere [a93]</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Expedition Map [125]</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: search your library for a land card, reveal it, and put that 
+    card into your hand. Then shuffle your library. from </font><font color="#B0C4DE">Expedition 
+    Map [125]</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Expedition Map [125]</font>
+<font color="#CCCC33">21:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    reveals </font><font color="#B0C4DE">Urza's Power Plant</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urza's Power Plant [8e2]</font><font color="White"> 
+    from library into his or her hand</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:34: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (17 - 20)</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Forest [e9c]</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    casts </font><font color="#90EE90">Satyr Wayfinder [c7a]</font>
+<font color="#CCCC33">21:34: </font><font color="White">Ability triggers: </font><font color="#90EE90">Satyr 
+    Wayfinder [c7a]</font><font color="White"> - When </font><font color="#90EE90">Satyr 
+    Wayfinder [c7a]</font><font color="White"> enters the battlefield, reveal 
+    the top four cards of your library. You may put a land card from among 
+    them into your hand. Put the rest into your graveyard.</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    reveals </font><font color="#90EE90">Satyr Wayfinder</font><font color="White">, 
+    </font><font color="#B0C4DE">Windswept Heath</font><font color="White">, </font><font color="#B0C4DE">Wooded 
+    Foothills</font><font color="White">, </font><font color="#696969">Bloodghast</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Windswept Heath [7b1]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#90EE90">Satyr Wayfinder [328]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Wooded Foothills [299]</font><font color="White"> 
+    from library into his or her hand</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#696969">Bloodghast [444]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:34: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 20)</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Power Plant [8e2]</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Karn Liberated [772]</font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: exile target permanent. from </font><font color="#B0C4DE">Karn 
+    Liberated [772]</font><font color="White"> targeting </font><font color="#B0C4DE">Overgrown 
+    Tomb [6a3]</font><font color="White"> </font>
+<font color="#CCCC33">21:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Overgrown Tomb [6a3]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:35: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (17 - 20)</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:35: </font><font color="White">Ability triggers: </font><font color="#696969">Bloodghast 
+    [444]</font><font color="White"> - <i>Landfall</i> &#8212; Whenever a land 
+    enters the battlefield under your control, you may return </font><font color="#696969">Bloodghast 
+    [444]</font><font color="White"> from your graveyard to the battlefield.</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Wooded Foothills [299]</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#696969">Bloodghast [444]</font><font color="White"> 
+    from graveyard onto the Battlefield</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: search your library for a Mountain or Forest and put it onto 
+    the battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Wooded 
+    Foothills [299]</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Wooded Foothills [299]</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Overgrown Tomb [084]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    casts </font><font color="#DAA520">Grisly Salvage [31a]</font>
+<font color="#CCCC33">21:35: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    reveals </font><font color="#B0C4DE">Mutavault</font><font color="White">, </font><font color="#DAA520">Lotleth 
+    Troll</font><font color="White">, </font><font color="#696969">Thoughtseize</font><font color="White">, 
+    </font><font color="#90EE90">Satyr Wayfinder</font><font color="White">, </font><font color="#B0C4DE">Urborg, 
+    Tomb of Yawgmoth</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#DAA520">Lotleth Troll [4a0]</font><font color="White"> 
+    from library into his or her hand</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mutavault [dd6]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urborg, Tomb of Yawgmoth [869]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#90EE90">Satyr Wayfinder [f87]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#696969">Thoughtseize [1e4]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#DAA520">Grisly Salvage [31a]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">21:36: </font><font color="White">Attacker: </font><font color="#90EE90">Satyr 
+    Wayfinder [c7a]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">21:36: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 20)</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: Target player exiles a card from his or her hand. from </font><font color="#B0C4DE">Karn 
+    Liberated [772]</font><font color="White"> targeting </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    </font>
+<font color="#CCCC33">21:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Karn Liberated [d15]</font>
+<font color="#CCCC33">21:36: </font><font color="#B0C4DE">Karn Liberated [772]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: exile target permanent. from </font><font color="#B0C4DE">Karn 
+    Liberated [d15]</font><font color="White"> targeting </font><font color="#B0C4DE">Overgrown 
+    Tomb [084]</font><font color="White"> </font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Overgrown Tomb [084]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Ghost Quarter [544]</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:37: </font><font color="Orange">Turn 10 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (14 - 20)</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">21:37: </font><font color="White">Attacker: </font><font color="#90EE90">Satyr 
+    Wayfinder [c7a]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">21:37: </font><font color="White">Attacker: </font><font color="#696969">Bloodghast 
+    [444]</font><font color="White"> (2/1) unblocked</font>
+<font color="#CCCC33">21:37: </font><font color="#B0C4DE">Karn Liberated [d15]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">21:37: </font><font color="Orange">Turn 11 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 20)</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Power Plant [be7]</font>
+<font color="#CCCC33">21:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Perilous Vault [c71]</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Wurmcoil Engine [f63]</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:38: </font><font color="Orange">Turn 12 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (14 - 20)</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    discards down to 7 hand cards</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    discards </font><font color="#90EE90">Vengevine [9c0]</font>
+<font color="#CCCC33">21:38: </font><font color="Orange">Turn 13 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 20)</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Relic of Progenitus [118]</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">21:39: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurmcoil 
+    Engine [f63]</font><font color="White"> (6/6) blocked by </font><font color="#90EE90">Satyr 
+    Wayfinder [c7a]</font><font color="White"> (1/1) </font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">21:39: </font><font color="#90EE90">Satyr Wayfinder [c7a]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: exile all cards from all graveyards. Draw a card. from </font><font color="#B0C4DE">Relic 
+    of Progenitus [118]</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Relic of Progenitus [118]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Chromatic Sphere [a93]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Karn Liberated [d15]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Satyr Wayfinder [328]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Mutavault [dd6]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Chromatic Star [ec9]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Urborg, Tomb of Yawgmoth [869]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Sylvan Scrying [423]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Karn Liberated [772]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Inquisition of Kozilek [6ac]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Expedition Map [125]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Wooded Foothills [299]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Windswept Heath [686]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Windswept Heath [7b1]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Satyr Wayfinder [f87]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Satyr Wayfinder [c7a]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Vengevine [9c0]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Thoughtseize [1e4]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#DAA520">Grisly Salvage [31a]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:39: </font><font color="Orange">Turn 14 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (14 - 26)</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:39: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Wooded Foothills [135]</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: search your library for a Mountain or Forest and put it onto 
+    the battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Wooded 
+    Foothills [135]</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Wooded Foothills [135]</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Overgrown Tomb [b8c]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    casts </font><font color="#DAA520">Lotleth Troll [4a0]</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">21:40: </font><font color="White">Attacker: </font><font color="#696969">Bloodghast 
+    [444]</font><font color="White"> (2/1) unblocked</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">21:40: </font><font color="Orange">Turn 15 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (11 - 24)</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">21:40: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurmcoil 
+    Engine [f63]</font><font color="White"> (6/6) unblocked</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">21:40: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">21:40: </font><font color="Orange">Turn 16 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (5 - 30)</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: put a +1/+1 counter on </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font><font color="White">. from </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    discards </font><font color="#90EE90">Golgari Grave-Troll [001]</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: put a +1/+1 counter on </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font><font color="White">. from </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    discards </font><font color="#696969">Bloodghast [aa8]</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    dreges </font><font color="#90EE90">Golgari Grave-Troll [001]</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Overgrown Tomb [cb4]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#696969">Bloodghast [fea]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#90EE90">Golgari Grave-Troll [b05]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#696969">Gravecrawler [dfc]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#DAA520">Grisly Salvage [ec8]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Wooded Foothills [9bd]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    puts </font><font color="#90EE90">Golgari Grave-Troll [001]</font><font color="White"> 
+    from graveyard into his or her hand</font>
+<font color="#CCCC33">21:41: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">21:42: </font><font color="White">Attacker: </font><font color="#696969">Bloodghast 
+    [444]</font><font color="White"> (2/1) unblocked</font>
+<font color="#CCCC33">21:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">21:42: </font><font color="Orange">Turn 17 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (5 - 28)</font>
+<font color="#CCCC33">21:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Spellskite [481]</font>
+<font color="#CCCC33">21:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">21:42: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurmcoil 
+    Engine [f63]</font><font color="White"> (6/6) blocked by </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font><font color="White"> (4/3) </font>
+<font color="#CCCC33">21:42: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: Regenerate </font><font color="#DAA520">Lotleth Troll [4a0]</font><font color="White">. 
+    from </font><font color="#DAA520">Lotleth Troll [4a0]</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: put a +1/+1 counter on </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font><font color="White">. from </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    discards </font><font color="#90EE90">Golgari Grave-Troll [001]</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: put a +1/+1 counter on </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font><font color="White">. from </font><font color="#DAA520">Lotleth 
+    Troll [4a0]</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    discards </font><font color="#90EE90">Vengevine [a0b]</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">21:43: </font><font color="#B0C4DE">Wurmcoil Engine [f63]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">21:43: </font><font color="#DAA520">Lotleth Troll [4a0]</font><font color="White"> 
+    removed from combat</font>
+<font color="#CCCC33">21:43: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Wurmcoil 
+    Engine [f63]</font><font color="White"> - When </font><font color="#B0C4DE">Wurmcoil 
+    Engine [f63]</font><font color="White"> dies, put a a 3/3 colorless Wurm 
+    artifact creature token with deathtouch onto the battlefield. Put a a 3/3 
+    colorless Wurm artifact creature token with lifelink onto the battlefield.</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a </font><font color="#B0C4DE">Wurm [027]</font><font color="White"> 
+    token onto the battlefield</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a </font><font color="#B0C4DE">Wurm [74d]</font><font color="White"> 
+    token onto the battlefield</font>
+<font color="#CCCC33">21:43: </font><font color="Orange">Turn 18 </font><font color="#20B2AA">BatilChifGhurt</font><font color="Orange"> 
+    (5 - 34)</font>
+<font color="#CCCC33">21:43: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:44: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">21:44: </font><font color="Orange">Turn 19 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (5 - 34)</font>
+<font color="#CCCC33">21:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">21:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Karplusan Forest [23f]</font>
+<font color="#CCCC33">21:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">21:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#FF6347">Pyroclasm [63c]</font>
+<font color="#CCCC33">21:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#FF6347">Pyroclasm [63c]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">21:45: </font><font color="#696969">Bloodghast [444]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">21:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">21:45: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurm 
+    [027]</font><font color="White"> (3/3) unblocked</font>
+<font color="#CCCC33">21:45: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurm 
+    [74d]</font><font color="White"> (3/3) unblocked</font>
+<font color="#CCCC33">21:46: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    activates: Regenerate </font><font color="#DAA520">Lotleth Troll [4a0]</font><font color="White">. 
+    from </font><font color="#DAA520">Lotleth Troll [4a0]</font>
+<font color="#CCCC33">21:46: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">21:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 3 life</font>
+<font color="#CCCC33">21:46: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">21:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">21:46: </font><font color="#20B2AA">BatilChifGhurt</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>
