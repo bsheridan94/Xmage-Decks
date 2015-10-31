@@ -1,0 +1,75 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">LittleKidJunk</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">LittleKidJunk</font><font color="Orange"> 
+    - 1 win<br>DeckHash: -6057353140451075211<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">LittleKidJunk</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">LittleKidJunk</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">LittleKidJunk</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 5 cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws five cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 4 cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws four cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 3 cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws three cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 2 cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws two cards</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">LittleKidJunk</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">06:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

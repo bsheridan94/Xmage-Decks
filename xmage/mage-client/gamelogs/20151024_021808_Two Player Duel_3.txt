@@ -1,0 +1,340 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">08:18: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 7811364954750061884<br></font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 5960766438692431953<br><br>You have to win 2 games to 
+    win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">08:18: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Cinder Glade [eee]</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Cinder Glade [eee]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:18: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:18: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [280]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [280]</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Gladecover Scout [5b2]</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Gladecover Scout [5b2]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:19: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    (19 - 20)</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [7b9]</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [7b9]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Spellskite [7a4]</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Spellskite [7a4]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:19: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (19 - 20)</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [0e1]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [0e1]</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Seal of Primordium [ca1]</font>
+<font color="#CCCC33">08:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Seal of Primordium [ca1]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:20: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    (18 - 20)</font>
+<font color="#CCCC33">08:20: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:20: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    casts </font><font color="#90EE90">Sakura-Tribe Elder [d40]</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#90EE90">Sakura-Tribe Elder [d40]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Valakut, the Molten Pinnacle [fbb]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Valakut, the Molten Pinnacle [fbb]</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:21: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (18 - 20)</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#90EE90">Seal of Primordium [ca1]</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: destroy target artifact or enchantment. from </font><font color="#90EE90">Seal 
+    of Primordium [ca1]</font><font color="White"> targeting </font><font color="#B0C4DE">Spellskite 
+    [7a4]</font><font color="White"> </font>
+<font color="#CCCC33">08:21: </font><font color="#B0C4DE">Spellskite [7a4]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [1c3]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [5b2]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [1c3]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Glaring Aegis [d6b]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [5b2]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">08:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    sacrificed </font><font color="#90EE90">Sakura-Tribe Elder [d40]</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    activates: search your library for a basic land card and put it onto the 
+    battlefield tapped. Then shuffle your library. from </font><font color="#90EE90">Sakura-Tribe 
+    Elder [d40]</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [01d]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Glaring Aegis [d6b]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">08:22: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [5b2]</font><font color="White"> (5/7) unblocked</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    loses 5 life</font>
+<font color="#CCCC33">08:22: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    (17 - 15)</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    casts </font><font color="#90EE90">Search for Tomorrow [b9c]</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Forest [474]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#90EE90">Search for Tomorrow [b9c]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    casts </font><font color="#90EE90">Sakura-Tribe Elder [190]</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#90EE90">Sakura-Tribe Elder [190]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:22: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:23: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 15)</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [49e]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [5b2]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [49e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">08:23: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [5b2]</font><font color="White"> (9/11) blocked by </font><font color="#90EE90">Sakura-Tribe 
+    Elder [190]</font><font color="White"> (1/1) </font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    sacrificed </font><font color="#90EE90">Sakura-Tribe Elder [190]</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    activates: search your library for a basic land card and put it onto the 
+    battlefield tapped. Then shuffle your library. from </font><font color="#90EE90">Sakura-Tribe 
+    Elder [190]</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [3e5]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">08:23: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    (16 - 15)</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [af8]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [af8]</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#90EE90">Sakura-Tribe Elder [7e7]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    casts </font><font color="#90EE90">Sakura-Tribe Elder [7e7]</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:23: </font><font color="Orange">Turn 10 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (16 - 15)</font>
+<font color="#CCCC33">08:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [dde]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [5b2]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    casts </font><font color="#87CEFA">Cryptic Command [ba5]</font><font color="White"> 
+    (mode 1) targeting </font><font color="#90EE90">Rancor [dde]</font><font color="White"> 
+    (mode 2) targeting </font><font color="#F0E68C">Leyline of Sanctity [a17]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Rancor [dde]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">08:24: </font><font color="#90EE90">Rancor [dde]</font><font color="White"> 
+    is countered by </font><font color="#87CEFA">Cryptic Command [ba5]</font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#F0E68C">Leyline of Sanctity [a17]</font><font color="White"> 
+    from battlefield into its owner's hand</font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#87CEFA">Cryptic Command [ba5]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Windswept Heath [68f]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Windswept Heath [68f]</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">08:25: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [5b2]</font><font color="White"> (8/10) blocked by </font><font color="#90EE90">Sakura-Tribe 
+    Elder [7e7]</font><font color="White"> (1/1) </font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    sacrificed </font><font color="#90EE90">Sakura-Tribe Elder [7e7]</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    activates: search your library for a basic land card and put it onto the 
+    battlefield tapped. Then shuffle your library. from </font><font color="#90EE90">Sakura-Tribe 
+    Elder [7e7]</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Swamp [401]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">08:25: </font><font color="Orange">Turn 11 </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    (15 - 15)</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Stomping Ground [977]</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Stomping Ground [977]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">08:25: </font><font color="Orange">Turn 12 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (15 - 15)</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Windswept Heath [68f]</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: search your library for a Forest or Plains and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Windswept 
+    Heath [68f]</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [34d]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Unflinching Courage [e97]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [5b2]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    casts </font><font color="#87CEFA">Remand [c48]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Unflinching Courage [e97]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#DAA520">Unflinching Courage [e97]</font><font color="White"> 
+    from stack into its owner's hand</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    puts </font><font color="#87CEFA">Remand [c48]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">08:26: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [5b2]</font><font color="White"> (8/10) unblocked</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    loses 8 life</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 8 life</font>
+<font color="#CCCC33">08:26: </font><font color="Orange">Turn 13 </font><font color="#20B2AA">tjd</font><font color="Orange"> 
+    (21 - 7)</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">08:26: </font><font color="#20B2AA">tjd</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

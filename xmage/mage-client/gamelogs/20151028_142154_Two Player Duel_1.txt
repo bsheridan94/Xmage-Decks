@@ -1,0 +1,162 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">19:21: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">19:21: </font><font color="#20B2AA">snaek</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">snaek</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: -6500820243750859874<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">19:21: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:21: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:22: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Misty Rainforest [cec]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Misty Rainforest [cec]</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Misty Rainforest [cec]</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: search your library for a Forest or Island and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Misty 
+    Rainforest [cec]</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [534]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Slippery Bogle [74d]</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Slippery Bogle [74d]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:22: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">snaek</font><font color="Orange"> 
+    (20 - 17)</font>
+<font color="#CCCC33">19:22: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Halimar Depths [400]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Halimar Depths [400]</font>
+<font color="#CCCC33">19:23: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Halimar 
+    Depths [400]</font><font color="White"> - When </font><font color="#B0C4DE">Halimar 
+    Depths [400]</font><font color="White"> enters the battlefield, look at 
+    the top three cards of your Library, then put them back in any order.</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:23: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 17)</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [14e]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [14e]</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [541]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [74d]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [541]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [adf]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [74d]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [adf]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:24: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [74d]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">19:24: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">19:24: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">snaek</font><font color="Orange"> 
+    (16 - 17)</font>
+<font color="#CCCC33">19:24: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:24: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [77f]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:24: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [77f]</font>
+<font color="#CCCC33">19:24: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:24: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (16 - 17)</font>
+<font color="#CCCC33">19:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [dcd]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [74d]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [dcd]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:25: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [74d]</font><font color="White"> (8/8) unblocked</font>
+<font color="#CCCC33">19:25: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    loses 8 life</font>
+<font color="#CCCC33">19:25: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 8 life</font>
+<font color="#CCCC33">19:25: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    casts </font><font color="#87CEFA">Telling Time [d95]</font>
+<font color="#CCCC33">19:26: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    puts </font><font color="#87CEFA">Telling Time [d95]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">19:26: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">snaek</font><font color="Orange"> 
+    (8 - 25)</font>
+<font color="#CCCC33">19:26: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:26: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Ghost Quarter [cba]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:26: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Ghost Quarter [cba]</font>
+<font color="#CCCC33">19:26: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">19:26: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    has lost the game.</font>
+<font color="#CCCC33">19:26: </font><font color="#20B2AA">snaek</font><font color="White"> 
+    quits the match.</font>
+  </body>
+</html>

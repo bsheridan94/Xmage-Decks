@@ -1,0 +1,36 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">16:36: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">Getsumnoodle</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 7811364954750061884<br></font><font color="#20B2AA">Getsumnoodle</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 4990024244396609400<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">Getsumnoodle</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">Getsumnoodle</font><font color="White"> 
+    chooses that </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    takes the first turn</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">Getsumnoodle</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">Getsumnoodle</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">Getsumnoodle</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">16:36: </font><font color="#20B2AA">Getsumnoodle</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

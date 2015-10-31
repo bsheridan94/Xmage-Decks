@@ -1,0 +1,175 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 7811364954750061884<br></font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 4089129967142797793<br><br>You have to win 2 games to 
+    win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">05:45: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Windswept Heath [e43]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Windswept Heath [e43]</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Windswept Heath [e43]</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: search your library for a Forest or Plains and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Windswept 
+    Heath [e43]</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [b7b]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:45: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 17)</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [497]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [497]</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:46: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 17)</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [c38]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [c38]</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [b79]</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [b79]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:46: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 15)</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Swamp [a22]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Swamp [a22]</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#DAA520">Borborygmos Enraged [e41]</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#FF6347">Tormenting Voice [6f5]</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws two cards</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#FF6347">Tormenting Voice [6f5]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:46: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 15)</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [d16]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [b79]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:46: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [b79]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">05:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [d16]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [554]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [b79]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:47: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [b79]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [554]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [661]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [661]</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [7c5]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [b79]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:47: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [b79]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Rancor [7c5]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:47: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [b79]</font><font color="White"> (16/16) unblocked</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 16 life</font>
+<font color="#CCCC33">05:47: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (4 - 15)</font>
+<font color="#CCCC33">05:47: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:48: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">05:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">05:48: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

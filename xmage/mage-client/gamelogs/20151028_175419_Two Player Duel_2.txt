@@ -1,0 +1,685 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br></font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 2035238122354277931<br><br>You have to win 2 games to 
+    win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">22:54: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [070]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [070]</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">22:54: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urza's Mine [3a3]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Mine [3a3]</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Expedition Map [4ce]</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Expedition Map [4ce]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:54: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">22:54: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [607]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [607]</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [574]</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">22:55: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [5d4]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [5d4]</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">22:55: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">22:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [2fc]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">22:56: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [2fc]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [9a5]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">22:56: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    announces a value of 1 for <img height="15" width="15" src="file:plugins/images//symbols/medium/X.jpg" alt="X"></font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Condescend [b3f]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Hyena Umbra [9a5]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [9a5]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">22:56: </font><font color="#F0E68C">Hyena Umbra [9a5]</font><font color="White"> 
+    is countered by </font><font color="#87CEFA">Condescend [b3f]</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    scries 2</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Condescend [b3f]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [869]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [869]</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [3a6]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">22:57: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [3a6]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">22:57: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> (7/9) unblocked</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">22:57: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (13 - 20)</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [e35]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [e35]</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Treasure Mage [52e]</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Treasure Mage [52e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:57: </font><font color="White">Ability triggers: </font><font color="#87CEFA">Treasure 
+    Mage [52e]</font><font color="White"> - When </font><font color="#87CEFA">Treasure 
+    Mage [52e]</font><font color="White"> enters the battlefield, you may 
+    search your library for up to one an artifact card with converted mana 
+    cost 6 or more, reveal them, and put them into your hand. Then shuffle 
+    your library.</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts a card from library into his or her hand</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    reveals </font><font color="#B0C4DE">Wurmcoil Engine</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">22:57: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (13 - 20)</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Stony Silence [438]</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Stony Silence [438]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [2dd]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">22:57: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Spider Umbra [2dd]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [fd8]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [fd8]</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Slippery Bogle [59e]</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Slippery Bogle [59e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">22:58: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> (12/14) blocked by </font><font color="#87CEFA">Treasure 
+    Mage [52e]</font><font color="White"> (2/2) </font>
+<font color="#CCCC33">22:58: </font><font color="#87CEFA">Treasure Mage [52e]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">22:58: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (13 - 19)</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [fe2]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [fe2]</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Solemn Simulacrum [392]</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Solemn Simulacrum [392]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:58: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Solemn 
+    Simulacrum [392]</font><font color="White"> - When </font><font color="#B0C4DE">Solemn 
+    Simulacrum [392]</font><font color="White"> enters the battlefield, you 
+    may search your library for a basic land card and put it onto the 
+    battlefield tapped. Then shuffle your library.</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [596]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">22:58: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (13 - 19)</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [eb0]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [eb0]</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Horizon Canopy [eb0]</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: draw a card. from </font><font color="#B0C4DE">Horizon Canopy 
+    [eb0]</font>
+<font color="#CCCC33">22:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Horizon Canopy [fd8]</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: draw a card. from </font><font color="#B0C4DE">Horizon Canopy 
+    [fd8]</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [659]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">22:59: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Spider Umbra [659]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">22:59: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> (16/18) blocked by </font><font color="#B0C4DE">Solemn 
+    Simulacrum [392]</font><font color="White"> (2/2) </font>
+<font color="#CCCC33">22:59: </font><font color="#B0C4DE">Solemn Simulacrum 
+    [392]</font><font color="White"> died</font>
+<font color="#CCCC33">22:59: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Solemn 
+    Simulacrum [392]</font><font color="White"> - When </font><font color="#B0C4DE">Solemn 
+    Simulacrum [392]</font><font color="White"> dies, you may draw a card.</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:59: </font><font color="Orange">Turn 10 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (13 - 19)</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urza's Tower [9d7]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">22:59: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Tower [9d7]</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    announces a value of 2 for <img height="15" width="15" src="file:plugins/images//symbols/medium/X.jpg" alt="X"></font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Repeal [ddd]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    from battlefield into its owner's hand</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Repeal [ddd]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">23:00: </font><font color="#F0E68C">Hyena Umbra [3a6]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">23:00: </font><font color="#F0E68C">Ethereal Armor [2fc]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">23:00: </font><font color="#90EE90">Spider Umbra [2dd]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">23:00: </font><font color="#90EE90">Spider Umbra [659]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:00: </font><font color="Orange">Turn 11 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (13 - 19)</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [149]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [149]</font>
+<font color="#CCCC33">23:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [574]</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Spirit Mantle [93e]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:01: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    announces a value of 2 for <img height="15" width="15" src="file:plugins/images//symbols/medium/X.jpg" alt="X"></font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Condescend [272]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Spirit Mantle [93e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Spirit Mantle [93e]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">23:01: </font><font color="#F0E68C">Spirit Mantle [93e]</font><font color="White"> 
+    is countered by </font><font color="#87CEFA">Condescend [272]</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    scries 2</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Condescend [272]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">23:01: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [59e]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:01: </font><font color="Orange">Turn 12 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (12 - 19)</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urza's Tower [f97]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Tower [f97]</font>
+<font color="#CCCC33">23:01: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Wurmcoil Engine [743]</font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Wurmcoil Engine [743]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:02: </font><font color="Orange">Turn 13 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (12 - 19)</font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Glaring Aegis [c58]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:02: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Glaring Aegis [c58]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:02: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Glaring 
+    Aegis [c58]</font><font color="White"> - When </font><font color="#F0E68C">Glaring 
+    Aegis [c58]</font><font color="White"> enters the battlefield, tap target 
+    creature an opponent controls. - targeting </font><font color="#B0C4DE">Wurmcoil 
+    Engine [743]</font><font color="White"> </font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Windswept Heath [502]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Windswept Heath [502]</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Gaddock Teeg [ca1]</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Gaddock Teeg [ca1]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">23:03: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [59e]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">23:03: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> (3/7) unblocked</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">23:03: </font><font color="Orange">Turn 14 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (8 - 19)</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">23:03: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurmcoil 
+    Engine [743]</font><font color="White"> (6/6) unblocked</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">23:03: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Windswept Heath [502]</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: search your library for a Forest or Plains and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Windswept 
+    Heath [502]</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [c96]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">23:04: </font><font color="Orange">Turn 15 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 12)</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Windswept Heath [451]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Windswept Heath [451]</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Windswept Heath [451]</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: search your library for a Forest or Plains and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Windswept 
+    Heath [451]</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Forest [4da]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">23:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">23:05: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [59e]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">23:05: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> (3/7) unblocked</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Thirst for Knowledge [431]</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws three cards</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Expedition Map [0a8]</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Thirst for Knowledge [431]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Thirst for Knowledge [99f]</font>
+<font color="#CCCC33">23:05: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws three cards</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Island [4d4]</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Urza's Mine [0e0]</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Thirst for Knowledge [99f]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">23:06: </font><font color="Orange">Turn 16 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (10 - 11)</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urza's Power Plant [2e8]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Power Plant [2e8]</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Platinum Angel [2a0]</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Platinum Angel [2a0]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">23:06: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurmcoil 
+    Engine [743]</font><font color="White"> (6/6) blocked by </font><font color="#DAA520">Gaddock 
+    Teeg [ca1]</font><font color="White"> (2/2) </font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">23:06: </font><font color="#DAA520">Gaddock Teeg [ca1]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">23:06: </font><font color="Orange">Turn 17 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (16 - 11)</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [15f]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:06: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [15f]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Unflinching Courage [5f2]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [59e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:07: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Unflinching Courage [5f2]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Stony Silence [d8b]</font>
+<font color="#CCCC33">23:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Stony Silence [d8b]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:07: </font><font color="Orange">Turn 18 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (16 - 11)</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urza's Power Plant [ea9]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Power Plant [ea9]</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    announces a value of 2 for <img height="15" width="15" src="file:plugins/images//symbols/medium/X.jpg" alt="X"></font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Repeal [005]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    from battlefield into its owner's hand</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Repeal [005]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">23:08: </font><font color="#F0E68C">Hyena Umbra [15f]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">23:08: </font><font color="#F0E68C">Glaring Aegis [c58]</font><font color="White"> 
+    is put into graveyard from battlefield</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">23:08: </font><font color="White">Attacker: </font><font color="#B0C4DE">Wurmcoil 
+    Engine [743]</font><font color="White"> (6/6) unblocked</font>
+<font color="#CCCC33">23:08: </font><font color="White">Attacker: </font><font color="#B0C4DE">Platinum 
+    Angel [2a0]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">23:08: </font><font color="Orange">Turn 19 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (22 - 1)</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [568]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [59e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:08: </font><font color="#D2691E">Player request: 
+    Rolling back to start of turn 19</font>
+<font color="#CCCC33">23:08: </font><font color="Orange">Turn 19 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (22 - 1)</font>
+<font color="#CCCC33">23:08: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [574]</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    casts </font><font color="#87CEFA">Remand [7bd]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    from stack into its owner's hand</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#87CEFA">Remand [7bd]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [574]</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [574]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [568]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [59e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:09: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [574]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:09: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [568]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:10: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:10: </font><font color="Orange">Turn 20 </font><font color="#20B2AA">Stinkfuss</font><font color="Orange"> 
+    (22 - 1)</font>
+<font color="#CCCC33">23:10: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:10: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Urza's Tower [811]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:10: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Urza's Tower [811]</font>
+<font color="#CCCC33">23:10: </font><font color="#20B2AA">Stinkfuss</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">23:11: </font><font color="White">Attacker: </font><font color="#B0C4DE">Platinum 
+    Angel [2a0]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">23:11: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">23:11: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

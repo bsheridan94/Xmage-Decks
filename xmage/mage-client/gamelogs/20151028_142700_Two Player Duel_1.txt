@@ -1,0 +1,134 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">19:26: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 6056836354060535281<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws five cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    mulligans down to 5 cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    mulligans down to 4 cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws four cards</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">19:27: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [f80]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [f80]</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Gladecover Scout [4a6]</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Gladecover Scout [4a6]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:27: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (18 - 20)</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple of Malice [1f0]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple of Malice [1f0]</font>
+<font color="#CCCC33">19:27: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Temple 
+    of Malice [1f0]</font><font color="White"> - When </font><font color="#B0C4DE">Temple 
+    of Malice [1f0]</font><font color="White"> enters the battlefield, scry 1. <i>(Look 
+    at the top card of your library. You may put that card on the bottom of 
+    your library.)</i>.</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:27: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (18 - 20)</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [8b0]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:27: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [8b0]</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [f86]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [4a6]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Spider Umbra [f86]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [7d8]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [4a6]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [7d8]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:28: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [4a6]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">19:28: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (18 - 16)</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

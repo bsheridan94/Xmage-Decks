@@ -4888,3 +4888,476 @@ INFO  2015-10-05 19:49:50,287 Game 86d6595d-60b0-4224-9856-0fc8855544f0 started 
 INFO  2015-10-05 19:59:47,811 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
 INFO  2015-10-05 19:59:48,238 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
 INFO  2015-10-05 19:59:48,239 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-06 19:05:21,563 Starting MAGE client version 1.4.4v8                                                       =>[main] MageFrame.main 
+INFO  2015-10-06 19:05:21,588 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-06 19:05:30,606 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-06 19:05:30,774 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-06 19:05:30,799 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-06 19:05:33,892 Card pool load time: 1 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-06 19:05:35,390 Card images checking time: 1 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-06 19:05:48,607 Client start up time: 27 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-06 19:05:50,099 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-06 19:05:50,522 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-06 19:08:03,374 Joining table bf97410f-6cf1-41e8-8689-4117c922359b                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-06 19:08:28,047 Game a31eea98-f1df-45f9-b3b8-5798be38d02a started for player 27701061-e9b9-4365-bb44-641f6b23ed61 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 19:12:09,317 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 19:13:34,530 Game 6ea3e23f-5e0e-4589-ad6f-ecb663ea9300 started for player 27701061-e9b9-4365-bb44-641f6b23ed61 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 19:19:55,945 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 19:20:21,393 Joining table e010a985-064e-444c-9abe-59f9a9cd34b5                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-06 19:20:30,119 Game f08f2db5-c23b-4e04-812f-6f865d4b42f1 started for player bf46c8f3-b29f-4003-9ed0-d260d66743fc =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 19:27:39,835 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 19:28:15,979 Game 0963cc29-a09b-4f8b-ae1e-09bc4f925b1f started for player bf46c8f3-b29f-4003-9ed0-d260d66743fc =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 19:40:30,080 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 19:40:59,444 Game bdaf1f1b-b2cb-4e4e-9125-d39222fa167c started for player bf46c8f3-b29f-4003-9ed0-d260d66743fc =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 20:00:43,834 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 20:01:01,924 Joining table 922c86a9-a37a-4b35-b066-fd023280e203                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-06 20:01:12,669 Game 6e4b5b33-2f45-4401-b312-2291ab670448 started for player d39def51-5e87-4b4d-b7cc-225b5c6eeaf7 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+WARN  2015-10-06 20:01:13,013 Couldn't find player.                                                                      =>[AWT-EventQueue-0] GamePanel.updateGame 
+WARN  2015-10-06 20:01:13,014    uuid:d39def51-5e87-4b4d-b7cc-225b5c6eeaf7                                               =>[AWT-EventQueue-0] GamePanel.updateGame 
+WARN  2015-10-06 20:01:13,014    players:                                                                                =>[AWT-EventQueue-0] GamePanel.updateGame 
+WARN  2015-10-06 20:01:13,014 Couldn't find player.                                                                      =>[AWT-EventQueue-0] GamePanel.updateGame 
+WARN  2015-10-06 20:01:13,014    uuid:afacfada-08c3-4008-8b2b-90ce97799e7b                                               =>[AWT-EventQueue-0] GamePanel.updateGame 
+WARN  2015-10-06 20:01:13,014    players:                                                                                =>[AWT-EventQueue-0] GamePanel.updateGame 
+WARN  2015-10-06 20:07:55,234 Token image file not found: BFZ - Eldrazi Scion                                            =>[Util4] CardImageUtils.generateTokenImagePath 
+INFO  2015-10-06 20:09:18,681 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 20:10:11,159 Game d61274d7-7750-4b0d-bd1d-155fc00be942 started for player d39def51-5e87-4b4d-b7cc-225b5c6eeaf7 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 20:15:03,253 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 20:15:39,316 Joining table 008b6f9e-78aa-48aa-88b8-5ae28f03af1e                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-06 20:15:48,175 Game 214914bb-43c9-4763-b92e-a68cc86a28cd started for player 3e55839c-7fc0-48fa-8700-c351f230517f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 20:21:57,445 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 20:22:41,852 Game 41cf1d77-8ca8-4bb0-8c83-530988f0485b started for player 3e55839c-7fc0-48fa-8700-c351f230517f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 20:33:27,011 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 20:34:12,786 Joining table 2d988287-c7ac-40d5-9e3b-bc20fe9ee10f                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-06 20:34:22,989 Game 9ba8e309-b5ae-4cf8-8095-610d4644e83c started for player 4ac7a85d-8f91-42fb-b9ce-d5122c7ede4f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 20:35:10,258 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 20:35:21,458 Game c0ff4e72-3de9-4722-a403-9bd2ea568182 started for player 4ac7a85d-8f91-42fb-b9ce-d5122c7ede4f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-06 20:45:49,695 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-06 20:45:55,006 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-06 20:45:55,351 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-06 20:45:55,352 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-15 18:51:03,551 Starting MAGE client version 1.4.4v8                                                       =>[main] MageFrame.main 
+INFO  2015-10-15 18:51:03,599 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-15 18:51:15,169 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-15 18:51:15,380 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-15 18:51:15,450 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-15 18:51:19,388 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-15 18:51:20,883 Card images checking time: 1 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-15 18:51:28,997 Client start up time: 25 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-15 18:51:30,381 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-15 18:51:30,797 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-15 18:51:38,571 Joining table d9efe2c2-19b0-46f3-9d34-cea37c0decfe                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-15 18:52:14,808 Joining table d9efe2c2-19b0-46f3-9d34-cea37c0decfe                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-15 18:52:31,361 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-15 18:52:31,668 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-15 18:52:31,669 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-21 19:25:34,030 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-21 19:25:34,077 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-21 19:25:45,617 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-21 19:25:45,731 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-21 19:25:45,750 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-21 19:25:49,027 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-21 19:25:49,615 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-21 19:26:08,872 Client start up time: 34 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-21 19:26:10,103 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-21 19:26:10,539 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-21 19:26:27,225 Joining table deb06949-283c-42f5-ad9c-95495efe7862                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-21 19:26:40,796 Game 08ed6725-a54b-4e59-ba83-26adc82fd16a started for player c68fbdf8-492e-4205-90c1-343ea0aee547 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 19:47:06,059 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 19:48:02,391 Game 86f087dd-4645-4232-8a02-dc5ddc48d7c7 started for player c68fbdf8-492e-4205-90c1-343ea0aee547 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 19:59:39,202 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 20:00:20,855 Game 8ff792bb-d09b-4004-8e3c-09849ae91026 started for player c68fbdf8-492e-4205-90c1-343ea0aee547 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 20:14:38,621 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 20:23:55,855 Joining table bb93200b-f8e2-4576-b480-9e31710e7e13                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-21 20:24:01,189 Game 6e114eb2-9d9d-460a-8558-2227deea6426 started for player c91242c0-1068-4865-9924-d7998802329f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 20:43:03,284 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 20:43:37,466 Game 85f6bca3-ef29-4102-a8a5-3cbfa3992643 started for player c91242c0-1068-4865-9924-d7998802329f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 20:48:26,836 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-21 20:48:27,153 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-21 20:48:27,154 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-21 20:48:32,951 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[SwingWorker-pool-3-thread-2] SessionImpl.connect 
+INFO  2015-10-21 20:48:33,379 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[SwingWorker-pool-3-thread-2] SessionImpl.connect 
+INFO  2015-10-21 20:48:39,098 Joining table 72405627-4551-47e9-bbf3-ad09428b565f                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-21 20:49:07,748 Watching table a0325074-904e-47b2-9269-dc73befbb5a0                                        =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-21 20:49:08,556 Watching game 6e78ea17-334f-439f-957c-9edd6f5269c4                                         =>[AWT-EventQueue-0] CallbackClientImpl.watchGame 
+WARN  2015-10-21 20:49:13,467 message out of sequence - ignoringMessageId = 24 method = gameInform                       =>[AWT-EventQueue-0] CallbackClientImpl$1.run 
+WARN  2015-10-21 20:52:02,582 Token image file not found:  - Face Down                                                   =>[Util4] CardImageUtils.generateTokenImagePath 
+INFO  2015-10-21 21:05:15,105 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-21 21:05:15,415 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-21 21:05:15,415 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-21 22:53:04,067 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-21 22:53:04,151 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-21 22:53:09,779 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-21 22:53:09,878 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-21 22:53:09,905 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-21 22:53:13,884 Card pool load time: 3 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-21 22:53:14,486 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-21 22:53:16,326 Client start up time: 12 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-21 22:53:18,401 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-21 22:53:19,358 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-21 22:53:54,911 Joining table 649b07e6-1553-43d8-9b95-d65e2e2466df                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-21 22:54:16,103 Game 54fa751e-c013-4693-a1a7-e4123de5cc36 started for player 4f269848-17cd-42ac-accb-53821f1f9918 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:04:10,779 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:04:56,173 Game 85be7f3b-ee03-40a7-8d4c-beb5102acc35 started for player 4f269848-17cd-42ac-accb-53821f1f9918 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:10:40,161 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:10:57,690 Game 652f5397-b0f7-4dcd-af3f-1955d24706e4 started for player 4f269848-17cd-42ac-accb-53821f1f9918 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:17:14,737 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:17:53,128 Joining table 611cf7f5-b73c-453e-8cc0-9fe6ddcdd929                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-21 23:17:58,126 Game e076c881-dd52-4803-8b41-0e34afa5d63a started for player 559367a5-4dbd-4ebd-8e45-a22a4e2a7d02 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:23:22,178 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:23:39,438 Game efea6701-cf98-41a7-852f-42a62a7422f7 started for player 559367a5-4dbd-4ebd-8e45-a22a4e2a7d02 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:28:46,638 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:30:01,049 Joining table 7498c2f6-021f-46dd-abfa-533592ef2665                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-21 23:30:06,066 Game 17b05476-b18e-45d1-9383-f6e3b826c95c started for player d9b8117f-6746-48a9-a1ef-b8c31ecb3cac =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:37:42,353 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:38:26,449 Game bcb2d942-592e-442b-89d3-82a9f084c360 started for player d9b8117f-6746-48a9-a1ef-b8c31ecb3cac =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:43:46,632 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:43:53,537 Game d34c2834-332d-4fc6-b658-2fd1a2bf08ac started for player d9b8117f-6746-48a9-a1ef-b8c31ecb3cac =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-21 23:47:07,120 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-21 23:47:11,047 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-21 23:47:11,480 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-21 23:47:11,481 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-23 10:42:58,463 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-23 10:42:58,510 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-23 10:43:07,130 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-23 10:43:07,341 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-23 10:43:07,366 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-23 10:43:11,929 Card pool load time: 3 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-23 10:43:12,980 Card images checking time: 1 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-23 10:43:16,221 Client start up time: 17 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-23 10:43:18,646 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-23 10:43:21,060 Updating client cards DB - existing cards: 23812 new cards: 1 content versions - server: 41 client: 40 =>[AWT-EventQueue-0] SessionImpl.updateDatabase 
+INFO  2015-10-23 10:43:21,061 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-23 10:43:27,836 Joining table 7968e6d3-a576-4e39-8466-408273829fb8                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-23 10:43:37,790 Game cdcbc84d-28b9-4e79-a30b-f31b4042f1cd started for player be5cf05a-46a6-4489-aa31-0ff0d425276e =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-23 10:50:21,775 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-23 10:51:24,219 Game d0098124-b462-494e-9eb5-dbda1e11b639 started for player be5cf05a-46a6-4489-aa31-0ff0d425276e =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-23 10:56:45,203 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-23 10:56:51,291 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-23 10:56:51,598 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-23 10:56:51,598 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-24 00:19:30,239 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-24 00:19:30,241 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-24 00:19:31,976 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 00:19:32,036 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-24 00:19:32,041 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 00:19:34,740 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 00:19:35,071 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 00:19:36,945 Client start up time: 6 seconds                                                            =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-24 00:19:38,289 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-24 00:19:38,788 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-24 00:21:54,461 Game 61c85e10-9c5c-45e0-8a75-b80f4dbc119a started for player 473cc577-c2ba-435c-bf02-bc5ec9896cbc =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 00:26:28,068 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 00:27:43,855 Game 92dc8735-c70e-4d1b-87e7-e64aace4db41 started for player 473cc577-c2ba-435c-bf02-bc5ec9896cbc =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 00:34:07,943 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 00:35:00,376 Game 0d104401-0248-403f-b7d8-6d6eefb24e95 started for player 473cc577-c2ba-435c-bf02-bc5ec9896cbc =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 00:41:29,965 Joining table 8e8481be-156c-49be-9a3f-db2673773505                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-24 00:41:32,379 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 00:41:40,258 Joining table 90cc4442-19d6-40d7-a8f8-dd1bc59fd76f                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-24 00:42:25,167 Joining table 131368bb-1ddf-44f6-a05f-de9531926788                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-24 00:42:30,911 Game 7978e3d3-7958-4605-9e15-d515337600e8 started for player 84c55fa1-6781-4784-ba18-b974b31836bd =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+WARN  2015-10-24 00:44:33,408 Token image file not found: ORI - Elf Warrior                                              =>[Util4] CardImageUtils.generateTokenImagePath 
+INFO  2015-10-24 00:50:22,421 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 00:51:05,902 Game 27698c2d-7df9-40ef-be21-68309c09f37d started for player 84c55fa1-6781-4784-ba18-b974b31836bd =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 00:51:42,311 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 00:51:42,765 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 00:51:42,765 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-24 00:51:42,784 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 01:16:22,234 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-24 01:16:22,237 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-24 01:16:24,482 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 01:16:24,561 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-24 01:16:24,568 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 01:16:27,914 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 01:16:28,351 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 01:16:29,865 Client start up time: 7 seconds                                                            =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-24 01:16:31,233 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-24 01:16:31,844 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+FATAL 2015-10-24 01:17:05,955 MAGE Client UI error                                                                       =>[AWT-EventQueue-0] EDTExceptionHandler.handle 
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at javax.swing.DefaultRowSorter.convertRowIndexToModel(Unknown Source)
+	at javax.swing.JTable.convertRowIndexToModel(Unknown Source)
+	at mage.client.util.ButtonColumn.actionPerformed(ButtonColumn.java:110)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.focusLost(Unknown Source)
+	at java.awt.Component.processFocusEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.KeyboardFocusManager.redispatchEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+INFO  2015-10-24 01:17:09,966 Watching table 6896fef3-995c-42ef-9274-aa8faeed4885                                        =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-24 01:17:10,937 Watching game 0bc99b3a-ce6e-4da9-b9ae-4021e54d3803                                         =>[AWT-EventQueue-0] CallbackClientImpl.watchGame 
+INFO  2015-10-24 01:17:25,921 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 01:17:26,296 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 01:17:26,296 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-24 01:58:24,960 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-24 01:58:24,963 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-24 01:58:27,215 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 01:58:27,289 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-24 01:58:27,310 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 01:58:30,398 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 01:58:30,824 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 01:58:32,741 Client start up time: 7 seconds                                                            =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-24 01:58:34,223 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-24 01:58:34,709 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-24 02:02:10,633 Game eaebe462-8f4e-43ba-b200-1407bfe85308 started for player 5d8fab58-9aee-42f6-a4f8-7fa693751e83 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 02:10:24,687 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 02:10:53,215 Game 7e2cb838-511c-4d09-8971-a91b2a58022c started for player 5d8fab58-9aee-42f6-a4f8-7fa693751e83 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 02:16:50,168 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 02:16:59,996 Game 1c90d76e-8bba-4517-87ae-cf7fbd65bcee started for player 5d8fab58-9aee-42f6-a4f8-7fa693751e83 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 02:25:45,647 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 02:25:49,912 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 02:25:50,315 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 02:25:50,316 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-24 02:49:06,357 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-24 02:49:06,359 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-24 02:49:08,233 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 02:49:08,294 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-24 02:49:08,300 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-24 02:49:10,463 Card pool load time: 1 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 02:49:10,854 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-24 02:49:13,626 Client start up time: 7 seconds                                                            =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-24 02:49:14,901 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-24 02:49:15,381 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-24 02:49:29,842 Joining table 32cd9fa5-e928-4809-9232-d58833a23bbb                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-24 02:49:41,540 Joining table 706776e0-1888-4394-8560-3518cf216dd5                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-24 02:51:37,442 Joining table 7f410392-8b5b-4128-92eb-96c9d58fc55b                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-24 02:51:43,588 Game cc8ddad0-7eb4-4abe-9c3e-0b3db0188871 started for player ec5c9a82-8f47-479d-b7e5-c1d69fcaa34f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-24 02:56:52,200 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-24 02:56:59,035 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 02:56:59,393 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-24 02:56:59,394 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-27 11:15:03,428 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-27 11:15:03,474 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-27 11:15:15,333 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-27 11:15:15,589 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-27 11:15:15,613 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-27 11:15:19,567 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-27 11:15:20,775 Card images checking time: 1 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-27 11:15:22,583 Client start up time: 19 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-27 11:15:24,169 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-27 11:15:24,612 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-27 11:16:19,962 Joining table 729aca7b-0000-4552-878b-03822528d8a1                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-27 11:16:29,772 Joining table 0a44338e-c0ae-4160-935e-9762ff7c42f1                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-27 11:16:36,925 Game 7b96cf80-94c7-47d7-a36c-0f81c6df97f2 started for player 7b60a57a-20df-40de-a297-6818e79da701 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 11:32:11,145 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-27 11:35:03,041 Game a8d4fcf0-0bc0-4c2c-abe0-32c548910d49 started for player 7b60a57a-20df-40de-a297-6818e79da701 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 11:35:30,426 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-27 11:40:57,142 Joining table 70825ee0-bb52-4194-b462-d0a468f5ce9b                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-27 11:41:04,790 Game 86f23342-4846-4964-b53f-e75d01e6e662 started for player a53557ff-e24a-4085-8b3f-21791915beec =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 11:44:21,600 connection to server lost - Could not connect to server!                                   =>[Thread-10066] SessionImpl$ClientConnectionListener.handleConnectionException 
+INFO  2015-10-27 11:44:21,602 RECONNECT - Connected: true                                                                =>[Thread-10066] SessionImpl.reconnect 
+INFO  2015-10-27 11:44:21,603 DISCONNECTED (NO Event Dispatch Thread)                                                    =>[Thread-10066] MageFrame.disconnected 
+INFO  2015-10-27 11:44:42,993 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-27 11:44:43,100 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-27 11:44:44,027 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-27 11:44:44,902 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-27 11:44:45,374 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-27 11:45:06,994 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-27 11:45:07,300 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-27 11:45:07,301 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-27 18:29:25,174 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-27 18:29:25,181 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-27 18:29:32,769 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-27 18:29:32,961 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-27 18:29:32,987 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-27 18:29:36,712 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-27 18:29:37,472 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-27 18:29:49,112 Check download images (total cards: 23670, total tokens: 412) => Missing images: 280       =>[AWT-EventQueue-0] DownloadPictures.getNeededCards 
+INFO  2015-10-27 18:29:50,907 Client start up time: 25 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-27 18:29:52,109 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-27 18:29:52,533 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-27 18:37:03,078 Game 3a468802-0d32-4aa6-87f3-3a95aaace556 started for player 86899e17-dd84-4952-be3d-c257e599ed0d =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 18:53:22,412 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-27 18:53:26,447 Game 9e7e812a-76bf-4b96-9a76-9e86be8b29a6 started for player 86899e17-dd84-4952-be3d-c257e599ed0d =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 18:58:55,342 Game 69cc02b4-0287-435e-8abf-1d21d1acc297 started for player 86899e17-dd84-4952-be3d-c257e599ed0d =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 18:58:56,205 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-27 19:05:46,317 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-27 19:07:55,544 Joining table 1c752368-2035-4ea4-bac9-1d0fbc1ec408                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-27 19:08:04,268 Game fdde34a5-a561-46b5-a053-bccb4945d3fc started for player 8b6c7593-db21-4e76-910a-cb8c2150f3e9 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 19:14:46,150 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-27 19:15:34,759 Game 33452269-02cb-471c-a2f5-062d31954150 started for player 8b6c7593-db21-4e76-910a-cb8c2150f3e9 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-27 19:20:30,238 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-27 20:16:20,511 connection to server lost - Could not connect to server!                                   =>[Thread-23283] SessionImpl$ClientConnectionListener.handleConnectionException 
+INFO  2015-10-27 20:16:21,122 RECONNECT - Connected: true                                                                =>[Thread-23283] SessionImpl.reconnect 
+INFO  2015-10-27 20:16:21,122 DISCONNECTED (NO Event Dispatch Thread)                                                    =>[Thread-23283] MageFrame.disconnected 
+FATAL 2015-10-27 20:16:22,246 Communication error                                                                        =>[AWT-EventQueue-0] SessionImpl.handleThrowable 
+java.lang.NoClassDefFoundError: org/jboss/mx/util/ObjectNameFactory
+	at org.jboss.remoting.transporter.InternalTransporterServices.<clinit>(InternalTransporterServices.java:46)
+	at org.jboss.remoting.transporter.TransporterClient.findAlternativeTarget(TransporterClient.java:513)
+	at org.jboss.remoting.transporter.TransporterClient.invoke(TransporterClient.java:484)
+	at com.sun.proxy.$Proxy8.leaveChat(Unknown Source)
+	at mage.remote.SessionImpl.leaveChat(SessionImpl.java:847)
+	at mage.client.chat.ChatPanel.disconnect(ChatPanel.java:202)
+	at mage.client.table.TablesPanel.hideTables(TablesPanel.java:476)
+	at mage.client.table.TablesPane.hideTables(TablesPane.java:75)
+	at mage.client.MageFrame.hideTables(MageFrame.java:1033)
+	at mage.client.MageFrame$23.run(MageFrame.java:1325)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: org.jboss.mx.util.ObjectNameFactory
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 24 more
+FATAL 2015-10-27 22:00:35,459 Communication error                                                                        =>[pool-1-thread-1] SessionImpl.handleThrowable 
+java.lang.NoClassDefFoundError: Could not initialize class org.jboss.remoting.transporter.InternalTransporterServices
+	at org.jboss.remoting.transporter.TransporterClient.findAlternativeTarget(TransporterClient.java:513)
+	at org.jboss.remoting.transporter.TransporterClient.invoke(TransporterClient.java:484)
+	at com.sun.proxy.$Proxy8.ping(Unknown Source)
+	at mage.remote.SessionImpl.ping(SessionImpl.java:1417)
+	at mage.client.MageFrame$2.run(MageFrame.java:260)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         INFO  2015-10-28 11:30:38,378 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-28 11:30:38,425 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-28 11:30:52,581 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-28 11:30:52,791 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-28 11:30:52,816 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-28 11:31:06,817 Card pool load time: 12 seconds                                                            =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-28 11:31:08,647 Card images checking time: 1 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-28 11:31:10,270 Client start up time: 31 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-28 11:31:11,656 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-28 11:31:12,092 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-28 11:31:30,762 Joining table f1bac7aa-ee9a-41ea-9dbd-5af6598a43d6                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-28 11:31:42,304 Game 32277982-279a-44e4-b2df-24d2fd700987 started for player 00d75010-e597-4d90-8a58-798e8418db9d =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-28 11:34:37,185 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 11:35:51,803 Game a35fe27a-c9f5-4288-99f0-ee651c62d712 started for player 00d75010-e597-4d90-8a58-798e8418db9d =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-28 11:39:45,162 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 11:40:00,420 Game 46965ee3-2a70-4705-8203-6d98ddf1312d started for player 00d75010-e597-4d90-8a58-798e8418db9d =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-28 11:47:45,291 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 12:31:54,107 connection to server lost - Could not connect to server!                                   =>[Thread-11904] SessionImpl$ClientConnectionListener.handleConnectionException 
+INFO  2015-10-28 12:31:54,108 RECONNECT - Connected: true                                                                =>[Thread-11904] SessionImpl.reconnect 
+INFO  2015-10-28 12:31:54,109 DISCONNECTED (NO Event Dispatch Thread)                                                    =>[Thread-11904] MageFrame.disconnected 
+ERROR 2015-10-28 12:32:38,427 Ping failed: boozeCats Session: 3j011-kuwshp-igaym36z-1-igaym3bz-4 to MAGE server at xmage.de:17171 =>[pool-1-thread-1] SessionImpl.ping 
+FATAL 2015-10-28 12:32:38,429 Server error                                                                               =>[pool-1-thread-1] SessionImpl.handleMageException 
+mage.MageException: Ping failed
+	at mage.remote.SessionImpl.ping(SessionImpl.java:1419)
+	at mage.client.MageFrame$2.run(MageFrame.java:260)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+INFO  2015-10-28 12:32:38,431 DISCONNECT (still connected)                                                               =>[pool-1-thread-1] SessionImpl.disconnect 
+INFO  2015-10-28 12:32:38,555 Disconnected ...                                                                           =>[pool-1-thread-1] SessionImpl.disconnect 
+INFO  2015-10-28 12:32:38,560 DISCONNECTED (NO Event Dispatch Thread)                                                    =>[pool-1-thread-1] MageFrame.disconnected 
+INFO  2015-10-28 14:20:17,762 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-28 14:20:17,765 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-28 14:20:20,217 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-28 14:20:20,302 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-28 14:20:20,310 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-28 14:20:23,618 Card pool load time: 2 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-28 14:20:24,274 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-28 14:20:26,115 Client start up time: 8 seconds                                                            =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-28 14:20:27,147 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-28 14:20:27,704 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-28 14:20:32,130 Joining table 7a85a821-1806-48b0-be7f-7ebfc0fc8af7                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-28 14:20:43,916 Game 71a1fc78-b10d-4b53-ae02-bbece64a519d started for player 3abe3bd4-ce67-41ad-b0f0-57f08966976f =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-28 14:25:41,671 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 14:25:44,312 Joining table 23a040ae-9fe2-4c63-af79-3eadd77ee0cb                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-28 14:25:49,854 Game b69f9d38-b4b2-4512-bb04-3231b99e61c5 started for player db35c58c-6d5b-4461-aadb-ef1cd0c231a1 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-28 14:27:18,049 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 14:27:25,556 Game 054f7e42-cc21-45c2-b674-9af9d4f4872b started for player db35c58c-6d5b-4461-aadb-ef1cd0c231a1 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+WARN  2015-10-28 14:34:02,098 message out of sequence - ignoringMessageId = 932 method = gameInform                      =>[AWT-EventQueue-0] CallbackClientImpl$1.run 
+INFO  2015-10-28 14:36:59,034 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 14:38:01,222 Joining table 6282e953-8f88-4339-adb4-d7f4c927ad69                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-28 14:38:26,089 Game 5dffe49a-bf7e-40fb-8690-39f4756c45d5 started for player e655da3e-9621-4c08-b45f-3cad4f22c44a =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+WARN  2015-10-28 14:40:22,169 message out of sequence - ignoringMessageId = 1333 method = gameInform                     =>[AWT-EventQueue-0] CallbackClientImpl$1.run 
+WARN  2015-10-28 14:40:31,217 ignoring message from later source: 1344, text=Declare Attackers - Waiting for <font color='#20B2AA'>SPhericalDan</font> =>[AWT-EventQueue-0] FeedbackPanel.getFeedback 
+INFO  2015-10-28 14:42:54,736 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-28 14:42:55,053 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-28 14:42:55,053 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-28 14:42:55,262 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 17:39:00,686 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-28 17:39:00,689 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-28 17:39:02,580 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-28 17:39:02,660 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-28 17:39:02,665 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-28 17:39:05,115 Card pool load time: 1 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-28 17:39:05,435 Card images checking time: 0 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-28 17:39:12,590 Client start up time: 11 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-28 17:39:13,552 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-28 17:39:13,968 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-28 17:39:19,805 Joining table fb194663-2fad-454d-82b9-45e1cae85e31                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-28 17:39:28,393 Joining table b0342e4d-780e-4401-b3e1-d9c89aaa6ec9                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-28 17:39:35,249 Game 21ae8c91-c10d-4e8c-94df-fe6aa4a37068 started for player 34e0db36-0dbb-4492-a391-f7b8f8c5036c =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-28 17:52:04,442 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 17:53:09,376 Game 20d39be3-0ddd-4ad1-91b4-9830de8cf572 started for player 34e0db36-0dbb-4492-a391-f7b8f8c5036c =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-28 18:09:59,648 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 
+INFO  2015-10-28 18:10:02,735 Joining table c3f44834-97ec-42c3-8432-e32d5a39c556                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-28 18:10:27,680 DISCONNECT (still connected)                                                               =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-28 18:10:27,992 Disconnected ...                                                                           =>[AWT-EventQueue-0] SessionImpl.disconnect 
+INFO  2015-10-28 18:10:27,992 DISCONNECTED (Event Dispatch Thread)                                                       =>[AWT-EventQueue-0] MageFrame.disconnected 
+INFO  2015-10-30 19:54:07,417 Starting MAGE client version 1.4.4v11                                                      =>[main] MageFrame.main 
+INFO  2015-10-30 19:54:07,483 Logging level: INFO                                                                        =>[main] MageFrame.main 
+INFO  2015-10-30 19:54:20,755 Loading plugins...                                                                         =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-30 19:54:21,001 [Game counter plugin, version 0.1] has been loaded.                                        =>[AWT-EventQueue-0] CounterPluginImpl.newPlugin 
+INFO  2015-10-30 19:54:21,112 Done.                                                                                      =>[AWT-EventQueue-0] Plugins.loadPlugins 
+INFO  2015-10-30 19:54:24,571 Card pool load time: 1 seconds                                                             =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-30 19:54:25,687 Card images checking time: 1 seconds                                                       =>[AWT-EventQueue-0] MageFrame.checkForNewImages 
+INFO  2015-10-30 19:54:27,072 Client start up time: 19 seconds                                                           =>[AWT-EventQueue-0] MageFrame$6.run 
+INFO  2015-10-30 19:54:28,953 Trying to connect as boozeCats to XMAGE server at xmage.de:17171                           =>[AWT-EventQueue-0] SessionImpl.connect 
+INFO  2015-10-30 19:54:29,798 Connected as boozeCats to MAGE server at xmage.de:17171                                    =>[AWT-EventQueue-0] SessionImpl.connect 
+FATAL 2015-10-30 19:55:04,424 Invalid number: ﻿//Artifact at line 1
+Invalid number: SB: at line 33
+Invalid number: SB: at line 34
+Invalid number: SB: at line 35
+Invalid number: SB: at line 36
+Invalid number: SB: at line 37
+Invalid number: SB: at line 38
+ =>[AWT-EventQueue-0] DeckImporter.importDeck 
+INFO  2015-10-30 19:57:28,614 Joining table 73acce80-4a65-472e-806f-dab1c5516446                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-30 19:57:50,755 Joining table 49fd5f40-b49f-4fa4-afbe-5cdbf9e7d40e                                         =>[AWT-EventQueue-0] TablesPanel$1.actionPerformed 
+INFO  2015-10-30 19:57:57,780 Game 9f62b6f8-c206-4023-89d6-09257cfe8105 started for player d087e86e-e61a-4945-a952-30b5eb8af285 =>[AWT-EventQueue-0] CallbackClientImpl.gameStarted 
+INFO  2015-10-30 20:06:55,413 Ending game...                                                                             =>[pool-6-thread-1] FeedbackPanel$1.run 

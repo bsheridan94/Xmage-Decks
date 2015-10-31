@@ -1,0 +1,344 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">00:59: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">walkerstipe</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 8137026961686348901<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7865986326899934322<br><br>You have to win 1 game to 
+    win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">00:59: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">walkerstipe</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Verdant Catacombs [367]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Verdant Catacombs [367]</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Verdant Catacombs [367]</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    activates: search your library for a Forest or Swamp and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Verdant 
+    Catacombs [367]</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Forest [ee2]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">00:59: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#90EE90">Utopia Sprawl [acb]</font><font color="White"> 
+    targeting </font><font color="#B0C4DE">Forest [ee2]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:00: </font><font color="#90EE90">Utopia Sprawl [acb]</font><font color="White">: 
+    </font><font color="#20B2AA">walkerstipe</font><font color="White"> has 
+    chosen Green</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Utopia Sprawl [acb]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:00: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 19)</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [01f]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [01f]</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Chromatic Sphere [beb]</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Chromatic Sphere [beb]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    suspends (3) </font><font color="#B0C4DE">Lotus Bloom [cef]</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:00: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">walkerstipe</font><font color="Orange"> 
+    (20 - 19)</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#90EE90">Joraga Treespeaker [c98]</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Joraga Treespeaker [c98]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#90EE90">Elvish Mystic [d5d]</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Elvish Mystic [d5d]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:00: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:00: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 19)</font>
+<font color="#CCCC33">01:00: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Lotus 
+    Bloom [cef]</font><font color="White"> - At the beginning of your upkeep, 
+    if this card (</font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White">) 
+    is suspended, remove a time counter from it.</font>
+<font color="#CCCC33">01:01: </font><font color="White">Removed 1 time counter 
+    from </font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White"> 
+    (2 left)</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#87CEFA">Gitaxian Probe [ee0]</font><font color="White"> 
+    targeting </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#87CEFA">Gitaxian Probe [ee0]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Watery Grave [2ca]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Watery Grave [2ca]</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Conjurer's Bauble [d71]</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Conjurer's Bauble [d71]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Chromatic Sphere [530]</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Chromatic Sphere [530]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:01: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">walkerstipe</font><font color="Orange"> 
+    (16 - 19)</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Forest [6ce]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Forest [6ce]</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#DAA520">Burning-Tree Emissary [a80]</font>
+<font color="#CCCC33">01:01: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#DAA520">Burning-Tree Emissary [a80]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:01: </font><font color="White">Ability triggers: </font><font color="#DAA520">Burning-Tree 
+    Emissary [a80]</font><font color="White"> - When </font><font color="#DAA520">Burning-Tree 
+    Emissary [a80]</font><font color="White"> enters the battlefield, add <img width="15" height="15" alt="R" src="file:plugins/images//symbols/medium/R.jpg"><img width="15" height="15" alt="G" src="file:plugins/images//symbols/medium/G.jpg"> 
+    to your mana pool.</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    activates: put a level counter on </font><font color="#90EE90">Joraga 
+    Treespeaker [c98]</font><font color="White">. from </font><font color="#90EE90">Joraga 
+    Treespeaker [c98]</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#90EE90">Overgrowth [abe]</font><font color="White"> 
+    targeting </font><font color="#B0C4DE">Forest [ee2]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Overgrowth [abe]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:02: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (16 - 19)</font>
+<font color="#CCCC33">01:02: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Lotus 
+    Bloom [cef]</font><font color="White"> - At the beginning of your upkeep, 
+    if this card (</font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White">) 
+    is suspended, remove a time counter from it.</font>
+<font color="#CCCC33">01:02: </font><font color="White">Removed 1 time counter 
+    from </font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White"> 
+    (1 left)</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [f7f]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [f7f]</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Psychogenic Probe [19d]</font>
+<font color="#CCCC33">01:02: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Psychogenic Probe [19d]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:03: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:03: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">walkerstipe</font><font color="Orange"> 
+    (16 - 19)</font>
+<font color="#CCCC33">01:03: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:03: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    announces a value of 5 for <img width="15" height="15" alt="X" src="file:plugins/images//symbols/medium/X.jpg"></font>
+<font color="#CCCC33">01:03: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#90EE90">Genesis Wave [956]</font>
+<font color="#CCCC33">01:03: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    reveals </font><font color="#90EE90">Arbor Elf</font><font color="White">, </font><font color="#90EE90">Harmonize</font><font color="White">, 
+    </font><font color="#90EE90">Genesis Wave</font><font color="White">, </font><font color="#90EE90">Primeval 
+    Titan</font><font color="White">, </font><font color="#90EE90">Utopia 
+    Sprawl</font>
+<font color="#CCCC33">01:04: </font><font color="#90EE90">Utopia Sprawl [328]</font><font color="White">: 
+    </font><font color="#20B2AA">walkerstipe</font><font color="White"> has 
+    chosen Green</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Arbor Elf [833]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Primeval Titan [e0a]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Harmonize [48e]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Genesis Wave [bed]</font><font color="White"> 
+    from library into his or her graveyard</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Genesis Wave [956]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">01:04: </font><font color="White">Attacker: </font><font color="#DAA520">Burning-Tree 
+    Emissary [a80]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">01:04: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 19)</font>
+<font color="#CCCC33">01:04: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Lotus 
+    Bloom [cef]</font><font color="White"> - At the beginning of your upkeep, 
+    if this card (</font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White">) 
+    is suspended, remove a time counter from it.</font>
+<font color="#CCCC33">01:04: </font><font color="White">Removed 1 time counter 
+    from </font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White"> 
+    (0 left)</font>
+<font color="#CCCC33">01:04: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Lotus 
+    Bloom [cef]</font><font color="White"> - When the last time counter is 
+    removed from this card (</font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White">), 
+    if it's removed from the game, play it without paying its mana cost if 
+    able. If you can't, it remains removed from the game.</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Lotus Bloom [cef]</font>
+<font color="#CCCC33">01:04: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Lotus Bloom [cef]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#87CEFA">Serum Visions [6c1]</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    scries 2</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#87CEFA">Serum Visions [6c1]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [63e]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [63e]</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Chromatic Sphere [beb]</font>
+<font color="#CCCC33">01:05: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Conjurer's Bauble [d71]</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    announces a value of 0 for <img width="15" height="15" alt="X" src="file:plugins/images//symbols/medium/X.jpg"></font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#87CEFA">Reshape [d68]</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Lotus Bloom [7e2]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#87CEFA">Reshape [d68]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">01:06: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Psychogenic 
+    Probe [19d]</font><font color="White"> - Whenever a spell or ability 
+    causes a player to shuffle his or her library, Psychogenic Probe deals 2 
+    damage to him or her.</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">01:06: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">walkerstipe</font><font color="Orange"> 
+    (12 - 19)</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Forest [5df]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Forest [5df]</font>
+<font color="#CCCC33">01:06: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    activates: Untap target Forest. from </font><font color="#90EE90">Arbor 
+    Elf [833]</font><font color="White"> targeting </font><font color="#B0C4DE">Forest 
+    [ee2]</font><font color="White"> </font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#90EE90">Craterhoof Behemoth [f75]</font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Craterhoof Behemoth [f75]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:07: </font><font color="White">Ability triggers: </font><font color="#90EE90">Craterhoof 
+    Behemoth [f75]</font><font color="White"> - When </font><font color="#90EE90">Craterhoof 
+    Behemoth [f75]</font><font color="White"> enters the battlefield, creature 
+    you control gain Trample until end of turn. Creature you control get +X/+X 
+    until end of turn, where X is the number of creatures you control.</font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    casts </font><font color="#90EE90">Eternal Witness [020]</font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    puts </font><font color="#90EE90">Eternal Witness [020]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">01:07: </font><font color="White">Ability triggers: </font><font color="#90EE90">Eternal 
+    Witness [020]</font><font color="White"> - When </font><font color="#90EE90">Eternal 
+    Witness [020]</font><font color="White"> enters the battlefield, you may 
+    return target card from your graveyard to your hand. - targeting </font><font color="#90EE90">Genesis 
+    Wave [956]</font><font color="White"> </font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Chromatic Sphere [530]</font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">walkerstipe</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">01:07: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

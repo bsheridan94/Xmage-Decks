@@ -1,0 +1,237 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">05:39: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 7811364954750061884<br></font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 4089129967142797793<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:39: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Bloodstained Mire [171]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Bloodstained Mire [171]</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Bloodstained Mire [171]</font>
+<font color="#CCCC33">05:39: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: search your library for a Swamp or Mountain and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Bloodstained 
+    Mire [171]</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [437]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#FF6347">Faithless Looting [36c]</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws two cards</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#DAA520">Borborygmos Enraged [060]</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#696969">Griselbrand [108]</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#FF6347">Faithless Looting [36c]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:40: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 19)</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [b53]</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [b53]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:40: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 19)</font>
+<font color="#CCCC33">05:40: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Swamp [0b0]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Swamp [0b0]</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#696969">Goryo's Vengeance [4b4]</font><font color="White"> 
+    targeting </font><font color="#696969">Griselbrand [108]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#696969">Griselbrand [108]</font><font color="White"> 
+    from graveyard onto the Battlefield</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#696969">Goryo's Vengeance [4b4]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: draw seven cards. from </font><font color="#696969">Griselbrand 
+    [108]</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Path to Exile [793]</font><font color="White"> 
+    targeting </font><font color="#696969">Griselbrand [108]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: draw seven cards. from </font><font color="#696969">Griselbrand 
+    [108]</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    moves </font><font color="#90EE90">Worldspine Wurm [cb5]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">05:41: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#90EE90">Nourishing Shoal [a1a]</font><font color="White"> 
+    using alternative casting costs</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    gains 11 life</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#90EE90">Nourishing Shoal [a1a]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: draw seven cards. from </font><font color="#696969">Griselbrand 
+    [108]</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: draw seven cards. from </font><font color="#696969">Griselbrand 
+    [108]</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    moves </font><font color="#90EE90">Worldspine Wurm [5e8]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#90EE90">Nourishing Shoal [35f]</font><font color="White"> 
+    using alternative casting costs</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    gains 11 life</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#90EE90">Nourishing Shoal [35f]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: draw seven cards. from </font><font color="#696969">Griselbrand 
+    [108]</font>
+<font color="#CCCC33">05:42: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#DAA520">Manamorphose [88b]</font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#DAA520">Manamorphose [88b]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#696969">Goryo's Vengeance [ba1]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    from graveyard onto the Battlefield</font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#696969">Goryo's Vengeance [ba1]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Blood Crypt [e79]</font>
+<font color="#CCCC33">05:43: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    deals 3 damage to target creature or player. from </font><font color="#DAA520">Borborygmos 
+    Enraged [060]</font><font color="White"> targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Bloodstained Mire [249]</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    deals 3 damage to target creature or player. from </font><font color="#DAA520">Borborygmos 
+    Enraged [060]</font><font color="White"> targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Bloodstained Mire [344]</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    deals 3 damage to target creature or player. from </font><font color="#DAA520">Borborygmos 
+    Enraged [060]</font><font color="White"> targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Temple of Malice [b9f]</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    deals 3 damage to target creature or player. from </font><font color="#DAA520">Borborygmos 
+    Enraged [060]</font><font color="White"> targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Swamp [ebe]</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    deals 3 damage to target creature or player. from </font><font color="#DAA520">Borborygmos 
+    Enraged [060]</font><font color="White"> targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Blood Crypt [3c8]</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    deals 3 damage to target creature or player. from </font><font color="#DAA520">Borborygmos 
+    Enraged [060]</font><font color="White"> targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Temple of Malice [654]</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: </font><font color="#DAA520">Borborygmos Enraged [060]</font><font color="White"> 
+    deals 3 damage to target creature or player. from </font><font color="#DAA520">Borborygmos 
+    Enraged [060]</font><font color="White"> targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has lost the game.</font>
+<font color="#CCCC33">05:44: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    has won the game</font>
+  </body>
+</html>

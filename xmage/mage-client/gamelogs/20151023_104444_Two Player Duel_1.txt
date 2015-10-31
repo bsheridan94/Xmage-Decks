@@ -1,0 +1,331 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 1207362032674822331<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">16:44: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">16:45: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [bd5]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [bd5]</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Slippery Bogle [42a]</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:45: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Celestial Colonnade [5e7]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Celestial Colonnade [5e7]</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:45: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [958]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [958]</font>
+<font color="#CCCC33">16:45: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [678]</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [678]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:46: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [02f]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [02f]</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:46: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [ca1]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:46: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Spider Umbra [ca1]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:46: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [9ab]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:46: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    casts </font><font color="#87CEFA">Remand [cbc]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Hyena Umbra [9ab]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [9ab]</font><font color="White"> 
+    from stack into its owner's hand</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#87CEFA">Remand [cbc]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [2f6]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [2f6]</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [9ab]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:47: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [9ab]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:47: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [42a]</font><font color="White"> (3/3) unblocked</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">16:47: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (17 - 19)</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [477]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [477]</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    casts </font><font color="#DAA520">Geist of Saint Traft [afb]</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#DAA520">Geist of Saint Traft [afb]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:47: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:47: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 19)</font>
+<font color="#CCCC33">16:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">16:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Unflinching Courage [48a]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:48: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">16:48: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Unflinching Courage [48a]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [97b]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [97b]</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Glaring Aegis [932]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:49: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Glaring Aegis [932]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:49: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [42a]</font><font color="White"> (6/8) unblocked</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">16:49: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (11 - 24)</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [5b9]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [5b9]</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    casts </font><font color="#F0E68C">Flickerwisp [c23]</font>
+<font color="#CCCC33">16:49: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#F0E68C">Flickerwisp [c23]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:50: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Flickerwisp 
+    [c23]</font><font color="White"> - When </font><font color="#F0E68C">Flickerwisp 
+    [c23]</font><font color="White"> enters the battlefield, exile another 
+    target permanent. Return that card to the battlefield under its owner's 
+    control at the beginning of the next end step. - targeting </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> </font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    moves </font><font color="#F0E68C">Kor Spiritdancer [678]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:50: </font><font color="White">Ability triggers: </font><font color="#DAA520">Geist 
+    of Saint Traft [afb]</font><font color="White"> - Whenever </font><font color="#DAA520">Geist 
+    of Saint Traft [afb]</font><font color="White"> attacks, put a 4/4 white 
+    Angel creature token with flying onto the battlefield tapped and 
+    attacking. Exile that token at end of combat.</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts a </font><font color="#F0E68C">Angel [53a]</font><font color="White"> 
+    token onto the battlefield</font>
+<font color="#CCCC33">16:50: </font><font color="White">Attacker: </font><font color="#DAA520">Geist 
+    of Saint Traft [afb]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">16:50: </font><font color="White">Attacker: </font><font color="#F0E68C">Angel 
+    [53a]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">16:50: </font><font color="White">Ability triggers: </font><font color="#DAA520">Geist 
+    of Saint Traft [afb]</font><font color="White"> - At end of combat, exile 
+    it.</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    moves </font><font color="#F0E68C">Angel [53a]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">16:50: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Flickerwisp 
+    [c23]</font><font color="White"> - At the beginning of the next end step, 
+    return the exiled cards to the battlefield under its owner's control.</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    moves </font><font color="#F0E68C">Kor Spiritdancer [678]</font><font color="White"> 
+    to battlefield</font>
+<font color="#CCCC33">16:50: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (11 - 18)</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [760]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:50: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [760]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [61e]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [42a]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:50: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [678]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [61e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Windswept Heath [20b]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:50: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Windswept Heath [20b]</font>
+<font color="#CCCC33">16:51: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:51: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [42a]</font><font color="White"> (12/14) blocked by </font><font color="#F0E68C">Flickerwisp 
+    [c23]</font><font color="White"> (3/1) </font>
+<font color="#CCCC33">16:51: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 1 life</font>
+<font color="#CCCC33">16:51: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 11 life</font>
+<font color="#CCCC33">16:51: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 11 life</font>
+<font color="#CCCC33">16:51: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    has lost the game.</font>
+<font color="#CCCC33">16:51: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">16:51: </font><font color="#F0E68C">Flickerwisp [c23]</font><font color="White"> 
+    died</font>
+  </body>
+</html>

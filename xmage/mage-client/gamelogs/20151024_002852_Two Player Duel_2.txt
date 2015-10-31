@@ -1,0 +1,289 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">06:28: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">06:28: </font><font color="#20B2AA">XCabeloX</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br></font><font color="#20B2AA">XCabeloX</font><font color="Orange"> 
+    - 1 win<br>DeckHash: -2104719974141715200<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">06:28: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">06:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">06:28: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">06:29: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [46e]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [46e]</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Slippery Bogle [78e]</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Slippery Bogle [78e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">06:29: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">XCabeloX</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [0e6]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [0e6]</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    casts </font><font color="#FF6347">Goblin Guide [64f]</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#FF6347">Goblin Guide [64f]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">06:29: </font><font color="White">Ability triggers: </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> - When </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> attacks, defending player reveals 
+    the top card of his or her library. If it's a land card, that player puts 
+    it into his or her hand.</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    reveals </font><font color="#B0C4DE">Plains</font>
+<font color="#CCCC33">06:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library into his or her hand</font>
+<font color="#CCCC33">06:30: </font><font color="White">Attacker: </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">06:30: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [831]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [831]</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Glaring Aegis [99e]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [78e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">06:30: </font><font color="#D2691E">Player request: 
+    Rolling back to start of turn 3</font>
+<font color="#CCCC33">06:30: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [831]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [831]</font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Glaring Aegis [99e]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [78e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">06:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Glaring Aegis [99e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">06:31: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Glaring 
+    Aegis [99e]</font><font color="White"> - When </font><font color="#F0E68C">Glaring 
+    Aegis [99e]</font><font color="White"> enters the battlefield, tap target 
+    creature an opponent controls. - targeting </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> </font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Gladecover Scout [1e1]</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Gladecover Scout [1e1]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">06:31: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [78e]</font><font color="White"> (2/4) unblocked</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">06:31: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">XCabeloX</font><font color="Orange"> 
+    (18 - 18)</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Wooded Foothills [ebc]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Wooded Foothills [ebc]</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">06:31: </font><font color="White">Ability triggers: </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> - When </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> attacks, defending player reveals 
+    the top card of his or her library. If it's a land card, that player puts 
+    it into his or her hand.</font>
+<font color="#CCCC33">06:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    reveals </font><font color="#F0E68C">Ethereal Armor</font>
+<font color="#CCCC33">06:31: </font><font color="White">Attacker: </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> (2/2) blocked by </font><font color="#90EE90">Gladecover 
+    Scout [1e1]</font><font color="White"> (1/1) </font>
+<font color="#CCCC33">06:31: </font><font color="#90EE90">Gladecover Scout 
+    [1e1]</font><font color="White"> died</font>
+<font color="#CCCC33">06:31: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (18 - 18)</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Forest [ce6]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Forest [ce6]</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [022]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [78e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [022]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Wooded Foothills [ebc]</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    activates: search your library for a Mountain or Forest and put it onto 
+    the battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Wooded 
+    Foothills [ebc]</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Stomping Ground [c38]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    casts </font><font color="#FF6347">Skullcrack [522]</font><font color="White"> 
+    targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">06:32: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#FF6347">Skullcrack [522]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">06:33: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [78e]</font><font color="White"> (5/7) unblocked</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    loses 5 life</font>
+<font color="#CCCC33">06:33: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">XCabeloX</font><font color="Orange"> 
+    (10 - 15)</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Sacred Foundry [867]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Sacred Foundry [867]</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    moves </font><font color="#FF6347">Rift Bolt [8bb]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    suspends (1) </font><font color="#FF6347">Rift Bolt [8bb]</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">06:33: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (8 - 15)</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [193]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [193]</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [288]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [78e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [288]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">06:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [e0a]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [78e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [e0a]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    casts </font><font color="#DAA520">Atarka's Command [0d3]</font><font color="White"> 
+    (mode 1) (mode 2)</font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#DAA520">Atarka's Command [0d3]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">06:34: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [78e]</font><font color="White"> (12/14) blocked by </font><font color="#FF6347">Goblin 
+    Guide [64f]</font><font color="White"> (2/2) </font>
+<font color="#CCCC33">06:34: </font><font color="#FF6347">Goblin Guide [64f]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">06:34: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">XCabeloX</font><font color="Orange"> 
+    (8 - 12)</font>
+<font color="#CCCC33">06:34: </font><font color="White">Ability triggers: </font><font color="#FF6347">Rift 
+    Bolt [8bb]</font><font color="White"> - At the beginning of your upkeep, 
+    if this card (</font><font color="#FF6347">Rift Bolt [8bb]</font><font color="White">) 
+    is suspended, remove a time counter from it.</font>
+<font color="#CCCC33">06:34: </font><font color="White">Removed 1 time counter 
+    from </font><font color="#FF6347">Rift Bolt [8bb]</font><font color="White"> 
+    (0 left)</font>
+<font color="#CCCC33">06:34: </font><font color="White">Ability triggers: </font><font color="#FF6347">Rift 
+    Bolt [8bb]</font><font color="White"> - When the last time counter is 
+    removed from this card (</font><font color="#FF6347">Rift Bolt [8bb]</font><font color="White">), 
+    if it's removed from the game, play it without paying its mana cost if 
+    able. If you can't, it remains removed from the game.</font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    casts </font><font color="#FF6347">Rift Bolt [8bb]</font><font color="White"> 
+    targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">06:34: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    puts </font><font color="#FF6347">Rift Bolt [8bb]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">06:35: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">06:35: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">06:35: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">06:35: </font><font color="#20B2AA">XCabeloX</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

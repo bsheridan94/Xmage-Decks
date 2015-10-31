@@ -1,0 +1,232 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">Nilirai</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 4887137170899071719<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">23:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">23:54: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Windswept Heath [780]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Windswept Heath [780]</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Windswept Heath [780]</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: search your library for a Forest or Plains and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Windswept 
+    Heath [780]</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [42d]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Slippery Bogle [ef9]</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Slippery Bogle [ef9]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:55: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">Nilirai</font><font color="Orange"> 
+    (20 - 17)</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [a43]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [a43]</font>
+<font color="#CCCC33">23:55: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:55: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 17)</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [b45]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [b45]</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [9a3]</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [9a3]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:56: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">Nilirai</font><font color="Orange"> 
+    (20 - 16)</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [d0b]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:56: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [d0b]</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    casts </font><font color="#B0C4DE">Genesis Chamber [c49]</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Genesis Chamber [c49]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:57: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 16)</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [2fa]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [9a3]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:57: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [9a3]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Spider Umbra [2fa]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [9a3]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [9a3]</font>
+<font color="#CCCC33">23:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">23:58: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [ef9]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">23:58: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [9a3]</font><font color="White"> (3/5) unblocked</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">23:58: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">Nilirai</font><font color="Orange"> 
+    (16 - 16)</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [b6c]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [b6c]</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    casts </font><font color="#F0E68C">Suture Priest [ce5]</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    puts </font><font color="#F0E68C">Suture Priest [ce5]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:58: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Genesis 
+    Chamber [c49]</font><font color="White"> - Whenever a nontoken creature 
+    enters the battlefield, if </font><font color="#B0C4DE">Genesis Chamber 
+    [c49]</font><font color="White"> is untapped, that creature's controller 
+    puts a 1/1 colorless Myr artifact creature token onto the battlefield</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    puts a </font><font color="#B0C4DE">Myr [4e3]</font><font color="White"> 
+    token onto the battlefield</font>
+<font color="#CCCC33">23:58: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Suture 
+    Priest [ce5]</font><font color="White"> - Whenever another creature enters 
+    the battlefield under your control, you gain 1 life.</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    gains 1 life</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">23:58: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 16)</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [00f]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [9a3]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:58: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [9a3]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:58: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [00f]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [574]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [9a3]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:59: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [9a3]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Rancor [574]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [cca]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [9a3]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">23:59: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [9a3]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [cca]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Misty Rainforest [ada]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Misty Rainforest [ada]</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">23:59: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [9a3]</font><font color="White"> (19/19) unblocked</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    loses 19 life</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">Nilirai</font><font color="White"> 
+    has lost the game.</font>
+<font color="#CCCC33">23:59: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+  </body>
+</html>

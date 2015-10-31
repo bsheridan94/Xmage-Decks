@@ -1,0 +1,300 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">16:52: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 1207362032674822331<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games to 
+    win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">16:52: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    mulligans down to 5 cards</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws five cards</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    mulligans down to 4 cards</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws four cards</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">16:53: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [609]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [609]</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:53: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [6f6]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [6f6]</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Gladecover Scout [065]</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Gladecover Scout [065]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:53: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">16:53: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Hallowed Fountain [9bc]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Hallowed Fountain [9bc]</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:54: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [745]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [065]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Rancor [745]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:54: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [065]</font><font color="White"> (3/1) unblocked</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">16:54: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (17 - 18)</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [415]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [415]</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    casts </font><font color="#DAA520">Geist of Saint Traft [cb6]</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#DAA520">Geist of Saint Traft [cb6]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">16:54: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 18)</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [fb9]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [065]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [fb9]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:54: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:55: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [065]</font><font color="White"> (5/3) unblocked</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 5 life</font>
+<font color="#CCCC33">16:55: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (12 - 18)</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Flooded Strand [18f]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Flooded Strand [18f]</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:55: </font><font color="White">Ability triggers: </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> - Whenever </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> attacks, put a 4/4 white 
+    Angel creature token with flying onto the battlefield tapped and 
+    attacking. Exile that token at end of combat.</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts a </font><font color="#F0E68C">Angel [205]</font><font color="White"> 
+    token onto the battlefield</font>
+<font color="#CCCC33">16:55: </font><font color="White">Attacker: </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">16:55: </font><font color="White">Attacker: </font><font color="#F0E68C">Angel 
+    [205]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">16:55: </font><font color="White">Ability triggers: </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> - At end of combat, exile 
+    it.</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Flooded Strand [18f]</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    activates: search your library for a Plains or Island and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Flooded 
+    Strand [18f]</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [43a]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    moves </font><font color="#F0E68C">Angel [205]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    casts </font><font color="#87CEFA">Glen Elendra Archmage [f9c]</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#87CEFA">Glen Elendra Archmage [f9c]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:55: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (11 - 12)</font>
+<font color="#CCCC33">16:55: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [b23]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [065]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Rancor [b23]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:56: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [065]</font><font color="White"> (8/4) blocked by </font><font color="#87CEFA">Glen 
+    Elendra Archmage [f9c]</font><font color="White"> (2/2) </font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">16:56: </font><font color="#87CEFA">Glen Elendra 
+    Archmage [f9c]</font><font color="White"> died</font>
+<font color="#CCCC33">16:56: </font><font color="White">Ability triggers: </font><font color="#87CEFA">Glen 
+    Elendra Archmage [f9c]</font><font color="White"> - Persist <i>(When this 
+    creature dies, if it had no -1/-1 counters on it, return it to the 
+    battlefield under its owner's control with a -1/-1 counter on it.)</i></font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#87CEFA">Glen Elendra Archmage [f9c]</font><font color="White"> 
+    from graveyard onto the Battlefield</font>
+<font color="#CCCC33">16:56: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">linusno</font><font color="Orange"> 
+    (5 - 12)</font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Island [02c]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Island [02c]</font>
+<font color="#CCCC33">16:56: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">16:56: </font><font color="White">Ability triggers: </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> - Whenever </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> attacks, put a 4/4 white 
+    Angel creature token with flying onto the battlefield tapped and 
+    attacking. Exile that token at end of combat.</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    puts a </font><font color="#F0E68C">Angel [834]</font><font color="White"> 
+    token onto the battlefield</font>
+<font color="#CCCC33">16:57: </font><font color="White">Attacker: </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">16:57: </font><font color="White">Attacker: </font><font color="#87CEFA">Glen 
+    Elendra Archmage [f9c]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">16:57: </font><font color="White">Attacker: </font><font color="#F0E68C">Angel 
+    [834]</font><font color="White"> (4/4) unblocked</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 4 life</font>
+<font color="#CCCC33">16:57: </font><font color="White">Ability triggers: </font><font color="#DAA520">Geist 
+    of Saint Traft [cb6]</font><font color="White"> - At end of combat, exile 
+    it.</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    moves </font><font color="#F0E68C">Angel [834]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">16:57: </font><font color="Orange">Turn 10 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (5 - 5)</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [334]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [334]</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [527]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [065]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Spider Umbra [527]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">16:57: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [065]</font><font color="White"> (10/6) unblocked</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    loses 10 life</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">linusno</font><font color="White"> 
+    has lost the game.</font>
+<font color="#CCCC33">16:57: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+  </body>
+</html>

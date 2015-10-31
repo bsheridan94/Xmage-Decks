@@ -1,0 +1,411 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 1 win<br>DeckHash: 7811364954750061884<br></font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 6056836354060535281<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:28: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple of Malice [21c]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:28: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple of Malice [21c]</font>
+<font color="#CCCC33">19:28: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Temple 
+    of Malice [21c]</font><font color="White"> - When </font><font color="#B0C4DE">Temple 
+    of Malice [21c]</font><font color="White"> enters the battlefield, scry 1. <i>(Look 
+    at the top card of your library. You may put that card on the bottom of 
+    your library.)</i>.</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">19:29: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [2c8]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [2c8]</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Gladecover Scout [58b]</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Gladecover Scout [58b]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:29: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Bloodstained Mire [668]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Bloodstained Mire [668]</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Bloodstained Mire [668]</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    activates: search your library for a Swamp or Mountain and put it onto the 
+    battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Bloodstained 
+    Mire [668]</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [ffc]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#696969">Night's Whisper [30d]</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws two cards</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#696969">Night's Whisper [30d]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:29: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (17 - 18)</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [657]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:29: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [657]</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Rest in Peace [ac4]</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Rest in Peace [ac4]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:30: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Rest 
+    in Peace [ac4]</font><font color="White"> - When </font><font color="#F0E68C">Rest 
+    in Peace [ac4]</font><font color="White"> enters the battlefield, exile 
+    all cards from all graveyards.</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Bloodstained Mire [668]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Night's Whisper [30d]</font><font color="White"> 
+    from graveyard to the exile zone</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:30: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [58b]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">19:30: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (16 - 18)</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Swamp [845]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Swamp [845]</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#696969">Night's Whisper [12d]</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws two cards</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Night's Whisper [12d]</font><font color="White"> 
+    from stack to the exile zone</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#FF6347">Faithless Looting [cf1]</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws two cards</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#90EE90">Worldspine Wurm [fc2]</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Worldspine Wurm [fc2]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Blood Crypt [c17]</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Blood Crypt [c17]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#FF6347">Faithless Looting [cf1]</font><font color="White"> 
+    from stack to the exile zone</font>
+<font color="#CCCC33">19:30: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:30: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 18)</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [1c9]</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [1c9]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [ece]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [ece]</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:31: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [58b]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">19:31: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (13 - 18)</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [a14]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:31: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [a14]</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:32: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (13 - 18)</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [460]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [460]</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Horizon Canopy [460]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Horizon Canopy [460]</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    activates: draw a card. from </font><font color="#B0C4DE">Horizon Canopy 
+    [460]</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [59d]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [1c9]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:32: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [1c9]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [59d]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">19:33: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [58b]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">19:33: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [1c9]</font><font color="White"> (3/5) unblocked</font>
+<font color="#CCCC33">19:33: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">19:33: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">19:33: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    reveals </font><font color="#FF6347">Desperate Ritual</font>
+<font color="#CCCC33">19:33: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    moves </font><font color="#90EE90">Worldspine Wurm [9fe]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:33: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#90EE90">Nourishing Shoal [b31]</font><font color="White"> 
+    using alternative casting costs splicing Desperate Ritual</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    gains 11 life</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Nourishing Shoal [b31]</font><font color="White"> 
+    from stack to the exile zone</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#FF6347">Through the Breach [642]</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#696969">Griselbrand [125]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#FF6347">Through the Breach [642]</font><font color="White"> 
+    from stack to the exile zone</font>
+<font color="#CCCC33">19:34: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Bloodstained Mire [831]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Bloodstained Mire [831]</font>
+<font color="#CCCC33">19:34: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:34: </font><font color="White">Attacker: </font><font color="#696969">Griselbrand 
+    [125]</font><font color="White"> (7/7) unblocked</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Path to Exile [7bd]</font><font color="White"> 
+    targeting </font><font color="#696969">Griselbrand [125]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    activates: draw seven cards. from </font><font color="#696969">Griselbrand 
+    [125]</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    activates: draw seven cards. from </font><font color="#696969">Griselbrand 
+    [125]</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Griselbrand [125]</font><font color="White"> 
+    from battlefield to the exile zone</font>
+<font color="#CCCC33">19:35: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Swamp [ce4]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#F0E68C">Path to Exile [7bd]</font><font color="White"> 
+    from stack to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="White">Ability triggers: </font><font color="#FF6347">Through 
+    the Breach [642]</font><font color="White"> - At the beginning of the next 
+    end step, sacrifice Griselbrand.</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards down to 7 hand cards</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Swamp [f29]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Swamp [f29]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#696969">Night's Whisper [ed6]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Night's Whisper [ed6]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#696969">Night's Whisper [a5a]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Night's Whisper [a5a]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Blackcleave Cliffs [5a1]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Blackcleave Cliffs [5a1]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Swamp [639]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Swamp [639]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#B0C4DE">Temple of Malice [199]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#696969">Griselbrand [b21]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#DAA520">Borborygmos Enraged [d3e]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#B0C4DE">Temple of Malice [199]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#696969">Griselbrand [b21]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#FF6347">Through the Breach [ab2]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#DAA520">Borborygmos Enraged [d3e]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#FF6347">Through the Breach [ab2]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    discards </font><font color="#DAA520">Manamorphose [e15]</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#DAA520">Manamorphose [e15]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:36: </font><font color="Orange">Turn 10 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (6 - 18)</font>
+<font color="#CCCC33">19:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [bfc]</font><font color="White"> 
+    targeting </font><font color="#F0E68C">Kor Spiritdancer [1c9]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:37: </font><font color="White">Ability triggers: </font><font color="#F0E68C">Kor 
+    Spiritdancer [1c9]</font><font color="White"> - Whenever you cast an Aura 
+    spell, you may draw a card.</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [bfc]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Dryad Arbor [bad]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#90EE90">Dryad Arbor [bad]</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    moves </font><font color="#DAA520">Borborygmos Enraged [07d]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#90EE90">Nourishing Shoal [4d8]</font><font color="White"> 
+    using alternative casting costs</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    gains 8 life</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    moves </font><font color="#90EE90">Nourishing Shoal [4d8]</font><font color="White"> 
+    from stack to the exile zone</font>
+<font color="#CCCC33">19:37: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [58b]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">19:37: </font><font color="White">Attacker: </font><font color="#F0E68C">Kor 
+    Spiritdancer [1c9]</font><font color="White"> (8/10) unblocked</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 8 life</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 8 life</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">19:37: </font><font color="Orange">Turn 11 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (5 - 26)</font>
+<font color="#CCCC33">19:37: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:38: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">19:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">19:38: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

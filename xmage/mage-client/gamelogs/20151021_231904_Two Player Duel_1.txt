@@ -1,0 +1,220 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 5540615621078366052<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:19: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [e8a]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [e8a]</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Slippery Bogle [31e]</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Slippery Bogle [31e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:19: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [334]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [334]</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#DAA520">Blistercoil Weird [3a7]</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:19: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:19: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [199]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [199]</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [8db]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [31e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [8db]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [330]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [31e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [330]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:20: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [31e]</font><font color="White"> (5/5) unblocked</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 5 life</font>
+<font color="#CCCC33">05:20: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (15 - 18)</font>
+<font color="#CCCC33">05:20: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Wooded Foothills [477]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Wooded Foothills [477]</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Wooded Foothills [477]</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    activates: search your library for a Mountain or Forest and put it onto 
+    the battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Wooded 
+    Foothills [477]</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [77f]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:21: </font><font color="White">Attacker: </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White"> (1/1) unblocked</font>
+<font color="#CCCC33">05:21: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#FF6347">Desperate Ritual [b03]</font>
+<font color="#CCCC33">05:21: </font><font color="White">Ability triggers: </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White"> - Whenever you cast instant or 
+    sorcery spell, </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    gets +1/+1 until end of turn. Untap </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White">.</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#FF6347">Desperate Ritual [b03]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#FF6347">Titan's Strength [556]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:22: </font><font color="White">Ability triggers: </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White"> - Whenever you cast instant or 
+    sorcery spell, </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    gets +1/+1 until end of turn. Untap </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White">.</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#FF6347">Titan's Strength [556]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#FF6347">Titan's Strength [b82]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:22: </font><font color="White">Ability triggers: </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White"> - Whenever you cast instant or 
+    sorcery spell, </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    gets +1/+1 until end of turn. Untap </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White">.</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#FF6347">Titan's Strength [b82]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#FF6347">Titan's Strength [75d]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:22: </font><font color="White">Ability triggers: </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White"> - Whenever you cast instant or 
+    sorcery spell, </font><font color="#DAA520">Blistercoil Weird [3a7]</font><font color="White"> 
+    gets +1/+1 until end of turn. Untap </font><font color="#DAA520">Blistercoil 
+    Weird [3a7]</font><font color="White">.</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">05:22: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#FF6347">Titan's Strength [75d]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 14 life</font>
+<font color="#CCCC33">05:23: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (14 - 4)</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [323]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [31e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [323]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple Garden [70b]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple Garden [70b]</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [14e]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [31e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Rancor [14e]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Spider Umbra [d5d]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [31e]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Spider Umbra [d5d]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:23: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:24: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">05:24: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">05:24: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

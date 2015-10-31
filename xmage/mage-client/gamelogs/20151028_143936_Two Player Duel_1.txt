@@ -1,0 +1,290 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: -2290700732490281708<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    decides to take mulligan</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    mulligans down to 6 cards</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws six cards</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">19:39: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts a card from library to the top of his or her library</font>
+<font color="#CCCC33">19:39: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Stomping Ground [d4e]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Stomping Ground [d4e]</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#90EE90">Wild Nacatl [b76]</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#90EE90">Wild Nacatl [b76]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:40: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (18 - 20)</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [96c]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [96c]</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Gladecover Scout [b12]</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Gladecover Scout [b12]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:40: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (18 - 20)</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Mountain [76d]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Mountain [76d]</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#FF6347">Eidolon of the Great Revel [e3a]</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#FF6347">Eidolon of the Great Revel [e3a]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:40: </font><font color="White">Attacker: </font><font color="#90EE90">Wild 
+    Nacatl [b76]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:40: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (18 - 18)</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [7d7]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:40: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [7d7]</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Kor Spiritdancer [311]</font>
+<font color="#CCCC33">19:41: </font><font color="White">Ability triggers: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> - Whenever a player 
+    casts a spell with converted mana cost 3 or less, </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> deals 2 damage to that 
+    player.</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Kor Spiritdancer [311]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">19:41: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (18 - 16)</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Wooded Foothills [060]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Wooded Foothills [060]</font>
+<font color="#CCCC33">19:41: </font><font color="White">Ability triggers: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> - Whenever a player 
+    casts a spell with converted mana cost 3 or less, </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> deals 2 damage to that 
+    player.</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#FF6347">Searing Blaze [54a]</font><font color="White"> 
+    targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font><font color="#F0E68C">Kor Spiritdancer [311]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">19:41: </font><font color="#F0E68C">Kor Spiritdancer 
+    [311]</font><font color="White"> died</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#FF6347">Searing Blaze [54a]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">19:41: </font><font color="White">Attacker: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">19:41: </font><font color="White">Attacker: </font><font color="#90EE90">Wild 
+    Nacatl [b76]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    sacrificed </font><font color="#B0C4DE">Wooded Foothills [060]</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    activates: search your library for a Mountain or Forest and put it onto 
+    the battlefield. Then shuffle your library. from </font><font color="#B0C4DE">Wooded 
+    Foothills [060]</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    searches his or her library</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Sacred Foundry [b5e]</font><font color="White"> 
+    from library onto the Battlefield</font>
+<font color="#CCCC33">19:41: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    moves </font><font color="#FF6347">Rift Bolt [a44]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    suspends (1) </font><font color="#FF6347">Rift Bolt [a44]</font>
+<font color="#CCCC33">19:42: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (13 - 9)</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Plains [acf]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Plains [acf]</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Ethereal Armor [647]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [b12]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:42: </font><font color="White">Ability triggers: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> - Whenever a player 
+    casts a spell with converted mana cost 3 or less, </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> deals 2 damage to that 
+    player.</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Ethereal Armor [647]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [658]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Gladecover Scout [b12]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:42: </font><font color="White">Ability triggers: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> - Whenever a player 
+    casts a spell with converted mana cost 3 or less, </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> deals 2 damage to that 
+    player.</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [658]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">19:42: </font><font color="White">Attacker: </font><font color="#90EE90">Gladecover 
+    Scout [b12]</font><font color="White"> (6/6) unblocked</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 6 life</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 6 life</font>
+<font color="#CCCC33">19:42: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">SPhericalDan</font><font color="Orange"> 
+    (7 - 11)</font>
+<font color="#CCCC33">19:42: </font><font color="White">Ability triggers: </font><font color="#FF6347">Rift 
+    Bolt [a44]</font><font color="White"> - At the beginning of your upkeep, 
+    if this card (</font><font color="#FF6347">Rift Bolt [a44]</font><font color="White">) 
+    is suspended, remove a time counter from it.</font>
+<font color="#CCCC33">19:42: </font><font color="White">Removed 1 time counter 
+    from </font><font color="#FF6347">Rift Bolt [a44]</font><font color="White"> 
+    (0 left)</font>
+<font color="#CCCC33">19:42: </font><font color="White">Ability triggers: </font><font color="#FF6347">Rift 
+    Bolt [a44]</font><font color="White"> - When the last time counter is 
+    removed from this card (</font><font color="#FF6347">Rift Bolt [a44]</font><font color="White">), 
+    if it's removed from the game, play it without paying its mana cost if 
+    able. If you can't, it remains removed from the game.</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#FF6347">Rift Bolt [a44]</font><font color="White"> 
+    targeting </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    </font>
+<font color="#CCCC33">19:42: </font><font color="White">Ability triggers: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> - Whenever a player 
+    casts a spell with converted mana cost 3 or less, </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> deals 2 damage to that 
+    player.</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#FF6347">Rift Bolt [a44]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Arid Mesa [2e9]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">19:42: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Arid Mesa [2e9]</font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    attacks with 2 creatures</font>
+<font color="#CCCC33">19:43: </font><font color="White">Attacker: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">19:43: </font><font color="White">Attacker: </font><font color="#90EE90">Wild 
+    Nacatl [b76]</font><font color="White"> (3/3) blocked by </font><font color="#90EE90">Gladecover 
+    Scout [b12]</font><font color="White"> (6/6) </font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    casts </font><font color="#DAA520">Atarka's Command [f62]</font><font color="White"> 
+    (mode 1) (mode 2)</font>
+<font color="#CCCC33">19:43: </font><font color="White">Ability triggers: </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> - Whenever a player 
+    casts a spell with converted mana cost 3 or less, </font><font color="#FF6347">Eidolon 
+    of the Great Revel [e3a]</font><font color="White"> deals 2 damage to that 
+    player.</font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 3 life</font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    puts </font><font color="#DAA520">Atarka's Command [f62]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">19:43: </font><font color="#90EE90">Wild Nacatl [b76]</font><font color="White"> 
+    died</font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">19:43: </font><font color="#20B2AA">SPhericalDan</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>

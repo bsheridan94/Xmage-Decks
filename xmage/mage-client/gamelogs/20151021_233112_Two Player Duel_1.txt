@@ -1,0 +1,277 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font color="#CCCC33">05:31: </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    has joined the game</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">: </font><font color="Orange"><br><b>Match score:</b><br></font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 4089129967142797793<br></font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    - 0 wins<br>DeckHash: 7811364954750061884<br><br>You have to win 2 games 
+    to win the complete match<br><br>Game has started<br><br></font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    won the toss</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    chooses that he or she takes the first turn</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws seven cards</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    keeps hand</font>
+<font color="#CCCC33">05:31: </font><font color="Orange">Turn 1 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple of Malice [735]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple of Malice [735]</font>
+<font color="#CCCC33">05:31: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Temple 
+    of Malice [735]</font><font color="White"> - When </font><font color="#B0C4DE">Temple 
+    of Malice [735]</font><font color="White"> enters the battlefield, scry 1. <i>(Look 
+    at the top card of your library. You may put that card on the bottom of 
+    your library.)</i>.</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:31: </font><font color="Orange">Turn 2 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:31: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [65a]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [65a]</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#DAA520">Slippery Bogle [30f]</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#DAA520">Slippery Bogle [30f]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:32: </font><font color="Orange">Turn 3 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Temple of Malice [40b]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Temple of Malice [40b]</font>
+<font color="#CCCC33">05:32: </font><font color="White">Ability triggers: </font><font color="#B0C4DE">Temple 
+    of Malice [40b]</font><font color="White"> - When </font><font color="#B0C4DE">Temple 
+    of Malice [40b]</font><font color="White"> enters the battlefield, scry 1. <i>(Look 
+    at the top card of your library. You may put that card on the bottom of 
+    your library.)</i>.</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    scries 1</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts a card from library to the bottom of his or her library</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:32: </font><font color="Orange">Turn 4 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 20)</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Razorverge Thicket [779]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Razorverge Thicket [779]</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Hyena Umbra [e20]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [30f]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Hyena Umbra [e20]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:32: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [30f]</font><font color="White"> (2/2) unblocked</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 2 life</font>
+<font color="#CCCC33">05:32: </font><font color="Orange">Turn 5 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">05:32: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:33: </font><font color="Orange">Turn 6 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (20 - 18)</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [140]</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [140]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [d11]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [30f]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [d11]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#90EE90">Rancor [b29]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [30f]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#90EE90">Rancor [b29]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:33: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [30f]</font><font color="White"> (7/5) unblocked</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 7 life</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 7 life</font>
+<font color="#CCCC33">05:33: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (26 - 11)</font>
+<font color="#CCCC33">05:33: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards down to 7 hand cards</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#90EE90">Worldspine Wurm [700]</font>
+<font color="#CCCC33">05:34: </font><font color="White">Ability triggers: </font><font color="#90EE90">Worldspine 
+    Wurm [700]</font><font color="White"> - When </font><font color="#90EE90">Worldspine 
+    Wurm [700]</font><font color="White"> is put into a graveyard from 
+    anywhere, shuffle it into its owner's library.</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#90EE90">Worldspine Wurm [700]</font><font color="White"> 
+    from graveyard to the top of his or her library</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:34: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (26 - 11)</font>
+<font color="#CCCC33">05:34: </font><font color="#D2691E">Player request: 
+    Rolling back to start of turn 7</font>
+<font color="#CCCC33">05:34: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (26 - 11)</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:34: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards down to 7 hand cards</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    discards </font><font color="#90EE90">Worldspine Wurm [700]</font>
+<font color="#CCCC33">05:35: </font><font color="White">Ability triggers: </font><font color="#90EE90">Worldspine 
+    Wurm [700]</font><font color="White"> - When </font><font color="#90EE90">Worldspine 
+    Wurm [700]</font><font color="White"> is put into a graveyard from 
+    anywhere, shuffle it into its owner's library.</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#90EE90">Worldspine Wurm [700]</font><font color="White"> 
+    from graveyard to the top of his or her library</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    shuffles his or her library.</font>
+<font color="#CCCC33">05:35: </font><font color="#D2691E">Player request: 
+    Rolling back to start of turn 7</font>
+<font color="#CCCC33">05:35: </font><font color="Orange">Turn 7 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (26 - 11)</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Swamp [03c]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Swamp [03c]</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:35: </font><font color="Orange">Turn 8 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (26 - 11)</font>
+<font color="#CCCC33">05:35: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Horizon Canopy [794]</font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Horizon Canopy [794]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [7a3]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [30f]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [7a3]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:36: </font><font color="White">Attacker: </font><font color="#DAA520">Slippery 
+    Bogle [30f]</font><font color="White"> (10/8) unblocked</font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    loses 10 life</font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    gains 10 life</font>
+<font color="#CCCC33">05:36: </font><font color="Orange">Turn 9 </font><font color="#20B2AA">HoboBanker</font><font color="Orange"> 
+    (36 - 1)</font>
+<font color="#CCCC33">05:36: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:37: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#B0C4DE">Swamp [a8e]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:37: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    plays </font><font color="#B0C4DE">Swamp [a8e]</font>
+<font color="#CCCC33">05:37: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    attacks with 0 creatures</font>
+<font color="#CCCC33">05:37: </font><font color="Orange">Turn 10 </font><font color="#20B2AA">boozeCats</font><font color="Orange"> 
+    (36 - 1)</font>
+<font color="#CCCC33">05:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    draws a card</font>
+<font color="#CCCC33">05:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Daybreak Coronet [8a7]</font><font color="White"> 
+    targeting </font><font color="#DAA520">Slippery Bogle [30f]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    puts </font><font color="#F0E68C">Daybreak Coronet [8a7]</font><font color="White"> 
+    from stack onto the Battlefield</font>
+<font color="#CCCC33">05:37: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    attacks with 1 creature</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    reveals </font><font color="#FF6347">Through the Breach</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    moves </font><font color="#90EE90">Nourishing Shoal [e91]</font><font color="White"> 
+    from hand to the exile zone</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    casts </font><font color="#90EE90">Nourishing Shoal [78e]</font><font color="White"> 
+    using alternative casting costs splicing Through the Breach</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    gains 2 life</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#90EE90">Worldspine Wurm [700]</font><font color="White"> 
+    from hand onto the Battlefield</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    puts </font><font color="#90EE90">Nourishing Shoal [78e]</font><font color="White"> 
+    from stack into his or her graveyard</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    loses 1 life</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    casts </font><font color="#F0E68C">Path to Exile [ad8]</font><font color="White"> 
+    targeting </font><font color="#90EE90">Worldspine Wurm [700]</font><font color="White"> 
+    </font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    has conceded.</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">boozeCats</font><font color="White"> 
+    has won the game</font>
+<font color="#CCCC33">05:38: </font><font color="#20B2AA">HoboBanker</font><font color="White"> 
+    has lost the game.</font>
+  </body>
+</html>
