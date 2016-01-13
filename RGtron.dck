@@ -2,16 +2,15 @@ NAME:RG Tron
 4 [10E:302] Sylvan Scrying
 1 [DIS:173] Ghost Quarter
 1 [9ED:327] Urza's Mine
-2 [9ED:328] Urza's Power Plant
 2 [MM2:230] Spellskite
+2 [9ED:328] Urza's Power Plant
 4 [INV:299] Chromatic Sphere
 1 [8ED:329] Urza's Power Plant
 1 [ME4:257] Urza's Mine
 2 [ME4:259] Urza's Tower
-1 [ROE:12] Ulamog, the Infinite Gyre
 1 [5ED:447] Urza's Mine
-1 [5ED:448] Urza's Power Plant
 2 [ZEN:201] Expedition Map
+1 [5ED:448] Urza's Power Plant
 1 [8ED:330] Urza's Tower
 4 [FUT:176] Grove of the Burnwillows
 1 [UNH:140] Forest
@@ -21,6 +20,7 @@ NAME:RG Tron
 4 [ROE:174] Ancient Stirrings
 2 [CMD:254] Oblivion Stone
 3 [MPRP:12] Pyroclasm
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
 1 [ALA:218] Relic of Progenitus
 1 [MM2:242] Eye of Ugin
 1 [HOP:124] Relic of Progenitus
@@ -31,14 +31,14 @@ NAME:RG Tron
 2 [MM2:213] Expedition Map
 1 [SHM:257] Painter's Servant
 4 [10E:314] Chromatic Star
-1 [ATQ:75] Urza's Mine
 1 [FRF:1] Ugin, the Spirit Dragon
-SB: 1 [WWK:108] Nature's Claim
+1 [ATQ:75] Urza's Mine
 SB: 1 [SHM:205] Firespout
+SB: 1 [WWK:108] Nature's Claim
 SB: 3 [RTR:231] Pithing Needle
-SB: 2 [NPH:162] Torpor Orb
 SB: 1 [TMP:165] Boil
+SB: 2 [NPH:162] Torpor Orb
 SB: 1 [CMD:199] Firespout
-SB: 3 [DTK:150] Rending Volley
 SB: 1 [7ED:177] Boil
+SB: 3 [DTK:150] Rending Volley
 SB: 2 [CNS:171] Nature's Claim
